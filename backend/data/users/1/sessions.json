@@ -1,0 +1,130 @@
+[
+  {
+    "id": "mpgkc0hp27ow",
+    "timestamp": "2026-05-22T06:53:00.157Z",
+    "language": "python",
+    "mainFile": "main.py",
+    "codeSnippet": "# Welcome to CodeMedic AI!\n# Paste your code here and click \"Debug Code\"\n\ndef greet(name):\n    print(\"Hello, \" + name)\n\ngreet(\"World\")\ngreet(\"CodeMedic\")\n",
+    "summary": "The code defines a function to greet people by name and calls it twice.",
+    "errorTitles": [],
+    "errorTypes": [],
+    "errorCount": 0,
+    "codeSmellCount": 1
+  },
+  {
+    "id": "mpglipjpniwl",
+    "timestamp": "2026-05-22T07:26:12.181Z",
+    "language": "python",
+    "mainFile": "main.py",
+    "codeSnippet": "# Welcome to CodeMedic AI!\n# Paste your code here and click \"Debug Code\"\n\ndef greet(name):\n    print(\"Hello, \" + name)\n\ngreet(\"World\")\ngreet(\"CodeMedic\")\n",
+    "summary": "The code defines a function to greet people by name and calls it twice.",
+    "errorTitles": [],
+    "errorTypes": [],
+    "errorCount": 0,
+    "codeSmellCount": 1
+  },
+  {
+    "id": "mpgy9g95fz7w",
+    "timestamp": "2026-05-22T13:22:55.241Z",
+    "language": "java",
+    "mainFile": "main.java",
+    "codeSnippet": "// Buggy Java Code Example (100+ lines)\n\nimport java.util.*;\n\npublic class BuggyProgram {\n\n    static Scanner sc = new Scanner(System.in);\n\n    public static void main(String args[]) {\n\n        int choice = 0;\n        String name = null;\n\n        System.out.println(\"Welcome to Student System\");\n\n        while(choice != 5) {\n\n            System.out.println(\"\\n1. Enter Name\");\n            System.out.println(\"2. Print Numbers\");\n            System.out.println(\"3. Divide Numbers\");\n            Syste",
+    "summary": "This program is meant to be a menu-driven system for students, but it has several bugs that will cause errors or unexpected behavior.",
+    "errorTitles": [
+      "Infinite Loop in For Loop",
+      "Array Index Out of Bounds",
+      "Unreachable Code",
+      "Division by Zero",
+      "Null Pointer Exception",
+      "Index Out of Bounds in List",
+      "Semicolon After If Statement"
+    ],
+    "errorTypes": [
+      "runtime",
+      "runtime",
+      "logical",
+      "runtime",
+      "runtime",
+      "runtime",
+      "syntax"
+    ],
+    "errorCount": 7,
+    "codeSmellCount": 2
+  },
+  {
+    "id": "mpgyd34syut6",
+    "timestamp": "2026-05-22T13:25:44.860Z",
+    "language": "javascript",
+    "mainFile": "main.js",
+    "codeSnippet": "// Buggy JavaScript Code Example\n\nconsole.log(\"Starting Program...\");\n\nlet users = [\"Parth\", \"Aman\", \"Riya\"];\nlet scores = [90, 80, 70];\n\nfunction printUsers() {\n\n    for (let i = 0; i <= users.length; i++) {\n        console.log(\"User:\", users[i]);\n    }\n\n}\n\nfunction calculateAverage() {\n\n    let total = 0;\n\n    for (let i = 0; i < scores.length; i++) {\n        total = total + score[i];\n    }\n\n    let avg = total / 0;\n\n    console.log(\"Average Score:\", avg);\n\n}\n\nfunction login(username, password",
+    "summary": "This program attempts to perform various operations like printing users, calculating averages, logging in, dividing numbers, and more, but contains several bugs that will cause errors or unexpected behavior.",
+    "errorTitles": [
+      "Array Index Out of Bounds",
+      "ReferenceError: 'score' is not defined",
+      "Division by Zero",
+      "Accessing Property of Null",
+      "Infinite Loop",
+      "Calling Method on Undefined Value",
+      "Variable Not Defined Before Use",
+      "Invalid JSON Syntax",
+      "Accessing Property of Undefined",
+      "NaN (Not a Number) Result",
+      "Calling Method on Undefined",
+      "Infinite Recursion"
+    ],
+    "errorTypes": [
+      "runtime",
+      "runtime",
+      "runtime",
+      "runtime",
+      "runtime",
+      "runtime",
+      "runtime",
+      "runtime",
+      "runtime",
+      "runtime",
+      "runtime",
+      "runtime"
+    ],
+    "errorCount": 12,
+    "codeSmellCount": 3
+  },
+  {
+    "id": "mpgygq7zp9eh",
+    "timestamp": "2026-05-22T13:28:34.751Z",
+    "language": "cpp",
+    "mainFile": "main.cpp",
+    "codeSnippet": "#include <iostream>\n#include <string>\n#include <vector>\n\nusing namespace std;\n\nclass Student {\npublic:\n    string name;\n    int marks;\n\n    void input() {\n        cout << \"Enter name: \";\n        cin >> name;\n\n        cout << \"Enter marks: \";\n        cin >> marks;\n    }\n\n    void display() {\n        cout << \"Name: \" << name << endl;\n        cout << \"Marks: \" << marks << endl;\n\n        if(marks > 90);\n        {\n            cout << \"Excellent Student\" << endl;\n        }\n    }\n};\n\nint divide(int a, ",
+    "summary": "The program tries to demonstrate various C++ concepts but contains many runtime errors and logical flaws that will crash or misbehave when run.",
+    "errorTitles": [
+      "Array Index Out of Bounds",
+      "Dereferencing Null Pointer",
+      "String Index Out of Bounds",
+      "Vector Index Out of Bounds",
+      "Infinite Loop",
+      "Stack Overflow Due to Recursion",
+      "Memory Leak",
+      "Type Mismatch",
+      "Uninitialized Variable Usage",
+      "Array Index Out of Bounds",
+      "Using NULL String",
+      "Division by Zero"
+    ],
+    "errorTypes": [
+      "runtime",
+      "runtime",
+      "runtime",
+      "runtime",
+      "runtime",
+      "runtime",
+      "runtime",
+      "logical",
+      "runtime",
+      "runtime",
+      "runtime",
+      "runtime"
+    ],
+    "errorCount": 12,
+    "codeSmellCount": 2
+  }
+]

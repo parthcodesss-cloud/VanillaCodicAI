@@ -1,0 +1,10 @@
+
+> codemedic-ai-backend@1.0.0 dev
+> node --watch server.js
+
+[1G[0K⚠️ No Python installation detected
+⚠️ No Java compiler installation detected
+⚙️ C++ compiler detected: g++
+🩺 CodeMedic AI backend running on http://localhost:3001
+🤖 Model: Qwen/Qwen2.5-Coder-32B-Instruct
+🧠 Memory system: ACTIVE

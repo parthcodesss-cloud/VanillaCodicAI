@@ -1,0 +1,17 @@
+
+> codemedic-ai-backend@1.0.0 dev
+> node --watch server.js
+
+[1G[0K⚠️ No Python installation detected
+⚠️ No Java compiler installation detected
+⚙️ C++ compiler detected: g++
+✅ Database migrations complete
+🩺 CodeMedic AI backend running on http://localhost:3001
+🤖 Model: Qwen/Qwen2.5-Coder-32B-Instruct
+🧠 Memory system: ACTIVE
+🗄️  Database: CONNECTED
+OTP email failed: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2bea917575bsm14907335ad.13 - gsmtp
+OTP email failed: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-84154a000cdsm1388888b3a.17 - gsmtp
+zip\    ^C

@@ -1,0 +1,93 @@
+{
+  "xp": 135,
+  "level": 2,
+  "totalSessions": 9,
+  "totalErrors": 27,
+  "totalFixes": 0,
+  "currentStreak": 1,
+  "longestStreak": 1,
+  "coins": 20,
+  "lastActiveDate": "2026-05-22",
+  "skills": {
+    "syntax": {
+      "score": 38,
+      "sessions": 6
+    },
+    "logic": {
+      "score": 53,
+      "sessions": 1
+    },
+    "runtime": {
+      "score": 11,
+      "sessions": 15
+    },
+    "errorHandling": {
+      "score": 56,
+      "sessions": 0
+    },
+    "dataStructures": {
+      "score": 56,
+      "sessions": 0
+    },
+    "async": {
+      "score": 56,
+      "sessions": 0
+    }
+  },
+  "languageStats": {
+    "python": {
+      "sessions": 5,
+      "errors": 2
+    },
+    "javascript": {
+      "sessions": 1,
+      "errors": 2
+    },
+    "java": {
+      "sessions": 3,
+      "errors": 23
+    }
+  },
+  "mistakeFrequency": {
+    "syntax:missing closing parenthesis": 4,
+    "syntax:missing closing quotation mark": 1,
+    "runtime:unfinished function call": 1,
+    "runtime:infinite loop in for loop": 1,
+    "runtime:array index out of bounds": 4,
+    "logical:unreachable code": 1,
+    "runtime:division by zero": 3,
+    "runtime:null pointer exception": 3,
+    "runtime:indexoutofboundsexception": 1,
+    "syntax:extra semicolon": 1,
+    "runtime:list index out of bounds": 2,
+    "logic:infinite loop in print numbers": 2,
+    "logic:incorrect menu option handling": 1,
+    "logic:array index out of bounds": 1,
+    "logic:incorrect choice handling": 1
+  },
+  "conceptWeaknesses": [],
+  "achievements": [
+    {
+      "id": "first_debug",
+      "name": "First Steps",
+      "desc": "Complete your first debug session",
+      "unlockedAt": "2026-05-22T06:58:47.134Z"
+    },
+    {
+      "id": "clean_code",
+      "name": "Clean Coder",
+      "desc": "Submit code with zero errors",
+      "unlockedAt": "2026-05-22T07:00:12.368Z"
+    },
+    {
+      "id": "polyglot",
+      "name": "Polyglot",
+      "desc": "Debug in 3+ languages",
+      "unlockedAt": "2026-05-22T07:29:28.973Z"
+    }
+  ],
+  "activityMap": {
+    "2026-05-22": 6
+  },
+  "lastClaimDate": "2026-05-22"
+}

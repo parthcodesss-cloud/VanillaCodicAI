@@ -1,0 +1,2238 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "agraj",
+      "email": "yadavnitendra75@gmail.com",
+      "phone": "1234567890",
+      "password_hash": "$2b$12$Ghk/ht5qZwbW2seuAKVqdOC92t0nQeQwi56Qua6tZCxuXX/pdlxRi",
+      "avatar_url": null,
+      "email_verified": true,
+      "created_at": "2026-05-22T13:20:59.214Z",
+      "otp_code": null,
+      "otp_expires": null,
+      "otp_purpose": null
+    },
+    {
+      "id": 2,
+      "name": "Ayush",
+      "email": "onworkofficial@gmail.com",
+      "phone": "9120088221",
+      "password_hash": "$2b$12$kNcEjOLxNEysXrVdnGj/6.fVA.CY6RUdvC6.XQsr4Eb16wIwtTelW",
+      "avatar_url": null,
+      "email_verified": true,
+      "created_at": "2026-05-22T13:39:59.126Z"
+    },
+    {
+      "id": 3,
+      "name": "Parth",
+      "email": "endlessavenger65@gmail.com",
+      "phone": "8412561477",
+      "password_hash": "$2b$12$hQSp./S9bsOqM0Z5QIgoFOX1iCtkErCszehJcse0SEfZdgrJhtsIq",
+      "avatar_url": null,
+      "email_verified": true,
+      "created_at": "2026-05-22T13:42:27.527Z"
+    },
+    {
+      "id": 4,
+      "name": "Rajdeep",
+      "email": "saxenaparth1712@gmail.com",
+      "phone": "9219724217",
+      "password_hash": "$2b$12$i7BaAAwi7pj3vDdAs4Gm2ubdHnq6sBFj9xwPMJOT8VJRBk.tHP1Ya",
+      "avatar_url": null,
+      "email_verified": true,
+      "created_at": "2026-05-24T05:17:18.805Z"
+    },
+    {
+      "id": 5,
+      "name": "Piyush",
+      "email": "piyush2905ranjan@gmail.com",
+      "phone": "4567891230",
+      "password_hash": "$2b$12$bIQLPvq6Qy25iVDC9N8ctes73eJJ1UwPkCHTF8Pwce1EmuAhAGGFq",
+      "avatar_url": null,
+      "email_verified": true,
+      "created_at": "2026-05-24T07:59:00.441Z",
+      "otp_code": null,
+      "otp_expires": null,
+      "otp_purpose": null
+    },
+    {
+      "id": 6,
+      "name": "ayush",
+      "email": "singhayush6917@gmail.com",
+      "phone": "9219724217",
+      "password_hash": "$2b$12$ZiT67u9ovR4ZSx1l.NvoCuBa/MRuZVZ2msVjAQ7l/pCDt2uW6ZBNy",
+      "avatar_url": null,
+      "email_verified": true,
+      "created_at": "2026-05-24T08:47:14.860Z",
+      "otp_code": "779149",
+      "otp_expires": "2026-05-24T09:15:51.638Z",
+      "otp_purpose": "login"
+    },
+    {
+      "id": 7,
+      "name": "Ankit Kumar",
+      "email": "ankitkumarkgh85672@gmail.com",
+      "phone": "8210354025",
+      "password_hash": "$2b$12$Tp2BjQhO9BcZjRnlzPpSJeNZckkoe.Hfb5OZ7xHEWjx8qQ/nr2.ee",
+      "avatar_url": null,
+      "email_verified": true,
+      "created_at": "2026-05-25T06:36:37.215Z"
+    },
+    {
+      "id": 8,
+      "name": "Ankit Singh",
+      "email": "mordorkingsouron@gmail.com",
+      "phone": "4567891230",
+      "password_hash": "$2b$12$YkTQBYe6kgPqBs09FQnSIO6mF4bHQObwLzXI61Q3mloYf22pXviOi",
+      "avatar_url": null,
+      "email_verified": true,
+      "created_at": "2026-05-25T12:21:52.374Z",
+      "otp_code": null,
+      "otp_expires": null,
+      "otp_purpose": null
+    },
+    {
+      "id": 9,
+      "name": "Ankit 2",
+      "email": "ankitsinghxdk@gmail.com",
+      "phone": "789456123",
+      "password_hash": "$2b$12$S6Sqet8yigzEiotun2..Oe68mvioD/iz9U45Ts7gSf5Dw5pnVZYPC",
+      "avatar_url": null,
+      "email_verified": true,
+      "created_at": "2026-05-25T12:33:24.932Z"
+    },
+    {
+      "id": 999,
+      "name": "Alex Wizard",
+      "email": "alex@codemedic.ai",
+      "username": "dev_wizard",
+      "email_verified": true,
+      "created_at": "2026-05-25T13:42:20.857Z"
+    },
+    {
+      "id": 998,
+      "name": "Sarah Ninja",
+      "email": "sarah@codemedic.ai",
+      "username": "debug_ninja",
+      "email_verified": true,
+      "created_at": "2026-05-25T13:42:20.858Z"
+    },
+    {
+      "id": 997,
+      "name": "John Medic",
+      "email": "john@codemedic.ai",
+      "username": "code_healer",
+      "email_verified": true,
+      "created_at": "2026-05-25T13:42:20.858Z"
+    },
+    {
+      "id": 13,
+      "name": "piyush",
+      "email": "singhdivank0084@gmail.com",
+      "phone": "7894561230",
+      "password_hash": "$2b$12$MgNmZTBZCsFXNhjWjrn/o.32DPGnSJzgdDBlLqkUZu4ulBkTgg9dm",
+      "avatar_url": null,
+      "email_verified": true,
+      "created_at": "2026-05-25T18:43:06.328Z",
+      "username": "piyush_6431"
+    },
+    {
+      "id": 14,
+      "name": "kartik sharma",
+      "email": "kartik214mn@gmail.com",
+      "phone": "9899686250",
+      "password_hash": "$2b$12$6BeaN7856SJSPRZ/gAnhKuzxVs3pC6BxzUOhb3XwUdVWVgetj9ud.",
+      "avatar_url": null,
+      "email_verified": true,
+      "created_at": "2026-05-25T21:46:47.156Z",
+      "username": "kartik_sharma_1973"
+    },
+    {
+      "id": 15,
+      "name": "Parth",
+      "email": "parth.codesss@gmail.com",
+      "phone": "7894561230",
+      "password_hash": "$2b$12$ZqdyqKnrvyR6ZXIFThF8DOGVwTAHpPXiJWbV/XzMmxgX6mjMRD4Zq",
+      "avatar_url": null,
+      "email_verified": true,
+      "created_at": "2026-05-26T19:38:47.247Z",
+      "username": "parth_3421",
+      "otp_code": null,
+      "otp_expires": null,
+      "otp_purpose": null
+    }
+  ],
+  "user_profiles": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "xp": 0,
+      "level": 1,
+      "current_streak": 0,
+      "longest_streak": 0,
+      "total_sessions": 0,
+      "total_fixes": 0,
+      "last_session_date": null,
+      "skills": {
+        "syntax": {
+          "score": 50,
+          "sessions": 0
+        },
+        "logic": {
+          "score": 50,
+          "sessions": 0
+        },
+        "runtime": {
+          "score": 50,
+          "sessions": 0
+        },
+        "errorHandling": {
+          "score": 50,
+          "sessions": 0
+        },
+        "dataStructures": {
+          "score": 50,
+          "sessions": 0
+        },
+        "async": {
+          "score": 50,
+          "sessions": 0
+        }
+      },
+      "achievements": [],
+      "language_counts": {},
+      "updated_at": "2026-05-22T13:20:59.215Z"
+    },
+    {
+      "id": 2,
+      "user_id": 2,
+      "xp": 0,
+      "level": 1,
+      "current_streak": 0,
+      "longest_streak": 0,
+      "total_sessions": 0,
+      "total_fixes": 0,
+      "last_session_date": null,
+      "skills": {
+        "syntax": {
+          "score": 50,
+          "sessions": 0
+        },
+        "logic": {
+          "score": 50,
+          "sessions": 0
+        },
+        "runtime": {
+          "score": 50,
+          "sessions": 0
+        },
+        "errorHandling": {
+          "score": 50,
+          "sessions": 0
+        },
+        "dataStructures": {
+          "score": 50,
+          "sessions": 0
+        },
+        "async": {
+          "score": 50,
+          "sessions": 0
+        }
+      },
+      "achievements": [],
+      "language_counts": {},
+      "updated_at": "2026-05-22T13:39:59.137Z"
+    },
+    {
+      "id": 3,
+      "user_id": 3,
+      "xp": 0,
+      "level": 1,
+      "current_streak": 0,
+      "longest_streak": 0,
+      "total_sessions": 0,
+      "total_fixes": 0,
+      "last_session_date": null,
+      "skills": {
+        "syntax": {
+          "score": 50,
+          "sessions": 0
+        },
+        "logic": {
+          "score": 50,
+          "sessions": 0
+        },
+        "runtime": {
+          "score": 50,
+          "sessions": 0
+        },
+        "errorHandling": {
+          "score": 50,
+          "sessions": 0
+        },
+        "dataStructures": {
+          "score": 50,
+          "sessions": 0
+        },
+        "async": {
+          "score": 50,
+          "sessions": 0
+        }
+      },
+      "achievements": [],
+      "language_counts": {},
+      "updated_at": "2026-05-22T13:42:27.533Z"
+    },
+    {
+      "id": 4,
+      "user_id": 4,
+      "xp": 0,
+      "level": 1,
+      "current_streak": 0,
+      "longest_streak": 0,
+      "total_sessions": 0,
+      "total_fixes": 0,
+      "last_session_date": null,
+      "skills": {
+        "syntax": {
+          "score": 50,
+          "sessions": 0
+        },
+        "logic": {
+          "score": 50,
+          "sessions": 0
+        },
+        "runtime": {
+          "score": 50,
+          "sessions": 0
+        },
+        "errorHandling": {
+          "score": 50,
+          "sessions": 0
+        },
+        "dataStructures": {
+          "score": 50,
+          "sessions": 0
+        },
+        "async": {
+          "score": 50,
+          "sessions": 0
+        }
+      },
+      "achievements": [],
+      "language_counts": {},
+      "updated_at": "2026-05-24T05:17:18.808Z"
+    },
+    {
+      "id": 5,
+      "user_id": 5,
+      "xp": 0,
+      "level": 1,
+      "current_streak": 0,
+      "longest_streak": 0,
+      "total_sessions": 0,
+      "total_fixes": 0,
+      "last_session_date": null,
+      "skills": {
+        "syntax": {
+          "score": 50,
+          "sessions": 0
+        },
+        "logic": {
+          "score": 50,
+          "sessions": 0
+        },
+        "runtime": {
+          "score": 50,
+          "sessions": 0
+        },
+        "errorHandling": {
+          "score": 50,
+          "sessions": 0
+        },
+        "dataStructures": {
+          "score": 50,
+          "sessions": 0
+        },
+        "async": {
+          "score": 50,
+          "sessions": 0
+        }
+      },
+      "achievements": [],
+      "language_counts": {},
+      "updated_at": "2026-05-24T07:59:00.442Z"
+    },
+    {
+      "id": 6,
+      "user_id": 6,
+      "xp": 0,
+      "level": 1,
+      "current_streak": 0,
+      "longest_streak": 0,
+      "total_sessions": 0,
+      "total_fixes": 0,
+      "last_session_date": null,
+      "skills": {
+        "syntax": {
+          "score": 50,
+          "sessions": 0
+        },
+        "logic": {
+          "score": 50,
+          "sessions": 0
+        },
+        "runtime": {
+          "score": 50,
+          "sessions": 0
+        },
+        "errorHandling": {
+          "score": 50,
+          "sessions": 0
+        },
+        "dataStructures": {
+          "score": 50,
+          "sessions": 0
+        },
+        "async": {
+          "score": 50,
+          "sessions": 0
+        }
+      },
+      "achievements": [],
+      "language_counts": {},
+      "updated_at": "2026-05-24T08:47:14.865Z"
+    },
+    {
+      "id": 7,
+      "user_id": 7,
+      "xp": 0,
+      "level": 1,
+      "current_streak": 0,
+      "longest_streak": 0,
+      "total_sessions": 0,
+      "total_fixes": 0,
+      "last_session_date": null,
+      "skills": {
+        "syntax": {
+          "score": 50,
+          "sessions": 0
+        },
+        "logic": {
+          "score": 50,
+          "sessions": 0
+        },
+        "runtime": {
+          "score": 50,
+          "sessions": 0
+        },
+        "errorHandling": {
+          "score": 50,
+          "sessions": 0
+        },
+        "dataStructures": {
+          "score": 50,
+          "sessions": 0
+        },
+        "async": {
+          "score": 50,
+          "sessions": 0
+        }
+      },
+      "achievements": [],
+      "language_counts": {},
+      "updated_at": "2026-05-25T06:36:37.217Z"
+    },
+    {
+      "id": 8,
+      "user_id": 8,
+      "xp": 0,
+      "level": 1,
+      "current_streak": 0,
+      "longest_streak": 0,
+      "total_sessions": 0,
+      "total_fixes": 0,
+      "last_session_date": null,
+      "skills": {
+        "syntax": {
+          "score": 50,
+          "sessions": 0
+        },
+        "logic": {
+          "score": 50,
+          "sessions": 0
+        },
+        "runtime": {
+          "score": 50,
+          "sessions": 0
+        },
+        "errorHandling": {
+          "score": 50,
+          "sessions": 0
+        },
+        "dataStructures": {
+          "score": 50,
+          "sessions": 0
+        },
+        "async": {
+          "score": 50,
+          "sessions": 0
+        }
+      },
+      "achievements": [],
+      "language_counts": {},
+      "updated_at": "2026-05-25T12:21:52.379Z"
+    },
+    {
+      "id": 9,
+      "user_id": 9,
+      "xp": 0,
+      "level": 1,
+      "current_streak": 0,
+      "longest_streak": 0,
+      "total_sessions": 0,
+      "total_fixes": 0,
+      "last_session_date": null,
+      "skills": {
+        "syntax": {
+          "score": 50,
+          "sessions": 0
+        },
+        "logic": {
+          "score": 50,
+          "sessions": 0
+        },
+        "runtime": {
+          "score": 50,
+          "sessions": 0
+        },
+        "errorHandling": {
+          "score": 50,
+          "sessions": 0
+        },
+        "dataStructures": {
+          "score": 50,
+          "sessions": 0
+        },
+        "async": {
+          "score": 50,
+          "sessions": 0
+        }
+      },
+      "achievements": [],
+      "language_counts": {},
+      "updated_at": "2026-05-25T12:33:24.939Z"
+    },
+    {
+      "id": 10,
+      "user_id": 13,
+      "xp": 0,
+      "level": 1,
+      "current_streak": 0,
+      "longest_streak": 0,
+      "total_sessions": 0,
+      "total_fixes": 0,
+      "last_session_date": null,
+      "skills": {
+        "syntax": {
+          "score": 50,
+          "sessions": 0
+        },
+        "logic": {
+          "score": 50,
+          "sessions": 0
+        },
+        "runtime": {
+          "score": 50,
+          "sessions": 0
+        },
+        "errorHandling": {
+          "score": 50,
+          "sessions": 0
+        },
+        "dataStructures": {
+          "score": 50,
+          "sessions": 0
+        },
+        "async": {
+          "score": 50,
+          "sessions": 0
+        }
+      },
+      "achievements": [],
+      "language_counts": {},
+      "updated_at": "2026-05-25T18:43:06.332Z"
+    },
+    {
+      "id": 11,
+      "user_id": 14,
+      "xp": 0,
+      "level": 1,
+      "current_streak": 0,
+      "longest_streak": 0,
+      "total_sessions": 0,
+      "total_fixes": 0,
+      "last_session_date": null,
+      "skills": {
+        "syntax": {
+          "score": 50,
+          "sessions": 0
+        },
+        "logic": {
+          "score": 50,
+          "sessions": 0
+        },
+        "runtime": {
+          "score": 50,
+          "sessions": 0
+        },
+        "errorHandling": {
+          "score": 50,
+          "sessions": 0
+        },
+        "dataStructures": {
+          "score": 50,
+          "sessions": 0
+        },
+        "async": {
+          "score": 50,
+          "sessions": 0
+        }
+      },
+      "achievements": [],
+      "language_counts": {},
+      "updated_at": "2026-05-25T21:46:47.159Z"
+    },
+    {
+      "id": 12,
+      "user_id": 15,
+      "xp": 0,
+      "level": 1,
+      "current_streak": 0,
+      "longest_streak": 0,
+      "total_sessions": 0,
+      "total_fixes": 0,
+      "last_session_date": null,
+      "skills": {
+        "syntax": {
+          "score": 50,
+          "sessions": 0
+        },
+        "logic": {
+          "score": 50,
+          "sessions": 0
+        },
+        "runtime": {
+          "score": 50,
+          "sessions": 0
+        },
+        "errorHandling": {
+          "score": 50,
+          "sessions": 0
+        },
+        "dataStructures": {
+          "score": 50,
+          "sessions": 0
+        },
+        "async": {
+          "score": 50,
+          "sessions": 0
+        }
+      },
+      "achievements": [],
+      "language_counts": {},
+      "updated_at": "2026-05-26T19:38:47.260Z"
+    }
+  ],
+  "user_sessions": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "language": "python",
+      "main_file": "main.py",
+      "code_snippet": "# Welcome to CodeMedic AI!\n# Paste your code here and click \"Debug Code\"\n\ndef greet(name):\n    print(\"Hello, \" + name)\n\ngreet(\"World\")\ngreet(\"CodeMedic\")\n",
+      "summary": "The code defines a function to greet people by name and calls it twice.",
+      "error_titles": [],
+      "error_types": [],
+      "error_count": 0,
+      "code_smell_count": 1,
+      "created_at": "2026-05-22T06:53:00.154Z"
+    },
+    {
+      "id": 2,
+      "user_id": 2,
+      "language": "python",
+      "main_file": "main.py",
+      "code_snippet": "# Welcome to CodeMedic AI!\n# Paste your code here and click \"Debug Code\"\n\ndef greet(name):\n    print(\"Hello, \" + name)\n\ngreet(\"World\")\ngreet(\"CodeMedic\"\n",
+      "summary": "The code defines a greeting function and calls it twice with different names.",
+      "error_titles": [
+        "Missing closing parenthesis"
+      ],
+      "error_types": [
+        "syntax"
+      ],
+      "error_count": 1,
+      "code_smell_count": 0,
+      "created_at": "2026-05-22T06:58:47.129Z"
+    },
+    {
+      "id": 3,
+      "user_id": 2,
+      "language": "python",
+      "main_file": "main.py",
+      "code_snippet": "# Welcome to CodeMedic AI!\n# Paste your code here and click \"Debug Code\"\n\ndef greet(name):\n    print(\"Hello, \" + name)\n\ngreet(\"World\")\ngreet(\"CodeMedic\"\n",
+      "summary": "The code defines a greeting function and calls it twice with different names.",
+      "error_titles": [
+        "Missing closing parenthesis"
+      ],
+      "error_types": [
+        "syntax"
+      ],
+      "error_count": 1,
+      "code_smell_count": 0,
+      "created_at": "2026-05-22T06:59:29.002Z"
+    },
+    {
+      "id": 4,
+      "user_id": 2,
+      "language": "javascript",
+      "main_file": "main.js",
+      "code_snippet": "// Paste your JavaScript code here\n\nfunction greet(name) {\n  console.log(\"Hello, \" + name);\n}\n\ngreet(\"World\ngreet(\"CodeMedic\");\n",
+      "summary": "The code is meant to greet users by name, but has a syntax error that prevents it from running properly.",
+      "error_titles": [
+        "Missing closing quotation mark",
+        "Unfinished function call"
+      ],
+      "error_types": [
+        "syntax",
+        "runtime"
+      ],
+      "error_count": 2,
+      "code_smell_count": 0,
+      "created_at": "2026-05-22T07:00:12.366Z"
+    },
+    {
+      "id": 5,
+      "user_id": 2,
+      "language": "python",
+      "main_file": "main.py",
+      "code_snippet": "# Welcome to CodeMedic AI!\n# Paste your code here and click \"Debug Code\"\n\ndef greet(name):\n    print(\"Hello, \" + name)\n\ngreet(\"World\")\ngreet(\"CodeMedic\")\n",
+      "summary": "The code defines a greeting function and calls it twice with different names.",
+      "error_titles": [],
+      "error_types": [],
+      "error_count": 0,
+      "code_smell_count": 0,
+      "created_at": "2026-05-22T07:15:58.675Z"
+    },
+    {
+      "id": 6,
+      "user_id": 1,
+      "language": "python",
+      "main_file": "main.py",
+      "code_snippet": "# Welcome to CodeMedic AI!\n# Paste your code here and click \"Debug Code\"\n\ndef greet(name):\n    print(\"Hello, \" + name)\n\ngreet(\"World\")\ngreet(\"CodeMedic\")\n",
+      "summary": "The code defines a function to greet people by name and calls it twice.",
+      "error_titles": [],
+      "error_types": [],
+      "error_count": 0,
+      "code_smell_count": 1,
+      "created_at": "2026-05-22T07:26:12.177Z"
+    },
+    {
+      "id": 7,
+      "user_id": 2,
+      "language": "java",
+      "main_file": "Main.java",
+      "code_snippet": "// Buggy Java Code Example (100+ lines)\n\nimport java.util.*;\n\npublic class BuggyProgram {\n\n    static Scanner sc = new Scanner(System.in);\n\n    public static void main(String args[]) {\n\n        int choice = 0;\n        String name = null;\n\n        System.out.println(\"Welcome to Student System\");\n\n        while(choice != 5) {\n\n            System.out.println(\"\\n1. Enter Name\");\n            System.out.println(\"2. Print Numbers\");\n            System.out.println(\"3. Divide Numbers\");\n            Syste",
+      "summary": "This program is a menu-driven system that lets users enter a name, print numbers, divide two numbers, test arrays, and view student data.",
+      "error_titles": [
+        "Infinite Loop in For Loop",
+        "Array Index Out of Bounds",
+        "Unreachable Code",
+        "Division by Zero",
+        "Null Pointer Exception",
+        "Array Index Out of Bounds",
+        "IndexOutOfBoundsException",
+        "Extra Semicolon"
+      ],
+      "error_types": [
+        "runtime",
+        "runtime",
+        "logical",
+        "runtime",
+        "runtime",
+        "runtime",
+        "runtime",
+        "syntax"
+      ],
+      "error_count": 8,
+      "code_smell_count": 2,
+      "created_at": "2026-05-22T07:29:28.970Z"
+    },
+    {
+      "id": 8,
+      "user_id": 2,
+      "language": "python",
+      "main_file": "main.py",
+      "code_snippet": "# Welcome to CodeMedic AI!\n# Paste your code here and click \"Debug Code\"\n\ndef greet(name):\n    print(\"Hello, \" + name)\n\ngreet(\"World\")\ngreet(\"CodeMedic\")\n",
+      "summary": "The code defines a simple greeting function that prints a message to the console.",
+      "error_titles": [],
+      "error_types": [],
+      "error_count": 0,
+      "code_smell_count": 0,
+      "created_at": "2026-05-22T07:32:54.763Z"
+    },
+    {
+      "id": 9,
+      "user_id": 2,
+      "language": "python",
+      "main_file": "main.py",
+      "code_snippet": "# Welcome to CodeMedic AI!\n# Paste your code here and click \"Debug Code\"\n\ndef greet(name):\n    print(\"Hello, \" + name)\n\ngreet(\"World\")\ngreet(\"CodeMedic\")\n",
+      "summary": "The code defines a simple greeting function that prints a message to the console.",
+      "error_titles": [],
+      "error_types": [],
+      "error_count": 0,
+      "code_smell_count": 1,
+      "created_at": "2026-05-22T07:35:51.050Z"
+    },
+    {
+      "id": 10,
+      "user_id": 2,
+      "language": "java",
+      "main_file": "new_file.java",
+      "code_snippet": "// Buggy Java Code Example (100+ lines)\n\nimport java.util.*;\n\npublic class BuggyProgram {\n\n    static Scanner sc = new Scanner(System.in);\n\n    public static void main(String args[]) {\n\n        int choice = 0;\n        String name = null;\n\n        System.out.println(\"Welcome to Student System\");\n\n        while(choice != 5) {\n\n            System.out.println(\"\\n1. Enter Name\");\n            System.out.println(\"2. Print Numbers\");\n            System.out.println(\"3. Divide Numbers\");\n            Syste",
+      "summary": "A student management system with menu-driven options that has several syntax, logic, and runtime errors.",
+      "error_titles": [
+        "Missing closing parenthesis",
+        "Array index out of bounds",
+        "Null pointer exception",
+        "Division by zero",
+        "List index out of bounds",
+        "Infinite loop in print numbers",
+        "Incorrect menu option handling"
+      ],
+      "error_types": [
+        "syntax",
+        "runtime",
+        "runtime",
+        "runtime",
+        "runtime",
+        "logic",
+        "logic"
+      ],
+      "error_count": 7,
+      "code_smell_count": 3,
+      "created_at": "2026-05-22T07:36:43.561Z"
+    },
+    {
+      "id": 11,
+      "user_id": 2,
+      "language": "java",
+      "main_file": "new_file.java",
+      "code_snippet": "// Buggy Java Code Example (100+ lines)\n\nimport java.util.*;\n\npublic class BuggyProgram {\n\n    static Scanner sc = new Scanner(System.in);\n\n    public static void main(String args[]) {\n\n        int choice = 0;\n        String name = null;\n\n        System.out.println(\"Welcome to Student System\");\n\n        while(choice != 5) {\n\n            System.out.println(\"\\n1. Enter Name\");\n            System.out.println(\"2. Print Numbers\");\n            System.out.println(\"3. Divide Numbers\");\n            Syste",
+      "summary": "A student management system with menu-driven options that has several syntax, logic, and runtime errors.",
+      "error_titles": [
+        "Missing closing parenthesis",
+        "Array index out of bounds",
+        "Null pointer exception",
+        "Division by zero",
+        "List index out of bounds",
+        "Infinite loop in print numbers",
+        "Array index out of bounds",
+        "Incorrect choice handling"
+      ],
+      "error_types": [
+        "syntax",
+        "runtime",
+        "runtime",
+        "runtime",
+        "runtime",
+        "logic",
+        "logic",
+        "logic"
+      ],
+      "error_count": 8,
+      "code_smell_count": 3,
+      "created_at": "2026-05-22T07:40:06.228Z"
+    },
+    {
+      "id": 12,
+      "user_id": 4,
+      "language": "python",
+      "main_file": "main.py",
+      "code_snippet": "# Welcome to CodeMedic AI!\n# Paste your code here and click \"Debug Code\"\n\ndef greet(name):\n    print(\"Hello, \" + name)\n\ngreet(\"World\")\ngreet(\"CodeMedic\")\n",
+      "summary": "The code defines a greeting function that prints a message to the screen.",
+      "error_titles": [],
+      "error_types": [],
+      "error_count": 0,
+      "code_smell_count": 1,
+      "created_at": "2026-05-22T08:30:15.653Z"
+    },
+    {
+      "id": 13,
+      "user_id": 4,
+      "language": "python",
+      "main_file": "main.py",
+      "code_snippet": "# Welcome to CodeMedic AI!\n# Paste your code here and click \"Debug Code\"\n\ndef greet(name):\n    print(\"Hello, \" + name)\n\ngreet(\"World\")\ngreet(\"CodeMedic\")\n",
+      "summary": "The code defines a function to greet people by name and calls it twice.",
+      "error_titles": [],
+      "error_types": [],
+      "error_count": 0,
+      "code_smell_count": 1,
+      "created_at": "2026-05-22T08:30:46.057Z"
+    },
+    {
+      "id": 14,
+      "user_id": 4,
+      "language": "java",
+      "main_file": "Main.java",
+      "code_snippet": "import java.io.*;\nimport java.util.*;\n\nclass Student implements Serializable {\n    private int id;\n    private String name;\n    private int age;\n    private double marks;\n\n    public Student(int id, String name, int age, double marks) {\n        this.id = id;\n        this.name = name;\n        this.age = age;\n        this.marks = marks;\n    }\n\n    public int getId() {\n        return id;\n    }\n\n    public String getName() {\n        return name;\n    }\n\n    public void updateMarks(double marks) {\n   ",
+      "summary": "This program manages a list of students by allowing users to add, remove, search, display, save, and load student data using a menu-driven interface.",
+      "error_titles": [
+        "Potential NullPointerException when loading data",
+        "Inefficient search method"
+      ],
+      "error_types": [
+        "runtime",
+        "logic"
+      ],
+      "error_count": 2,
+      "code_smell_count": 2,
+      "created_at": "2026-05-22T08:36:55.652Z"
+    },
+    {
+      "id": 15,
+      "user_id": 4,
+      "language": "python",
+      "main_file": "main.py",
+      "code_snippet": "import random\n\nclass BankAccount:\n\n    def __init__(self, owner, balance):\n        self.owner = owner\n        self.balance = balance\n\n    def deposit(self, amount):\n        self.balance = self.balance + amount\n        print(\"Deposited:\", amount)\n\n    def withdraw(self, amount):\n\n        if amount > self.balance:\n            print(\"Not enough money\")\n\n        self.balance -= amount\n\n    def display(self):\n        print(self.owner, \"Balance:\", self.balnce)\n\n\ndef transfer(sender, receiver, amount):",
+      "summary": "The code simulates bank account operations like deposits, withdrawals, and transfers between accounts.",
+      "error_titles": [
+        "Potential NullPointerException when loading data",
+        "Typo in variable name",
+        "Incorrect withdrawal amount type",
+        "Index out of bounds error",
+        "Incorrect total calculation"
+      ],
+      "error_types": [
+        "runtime",
+        "syntax",
+        "logic",
+        "runtime",
+        "logic"
+      ],
+      "error_count": 5,
+      "code_smell_count": 2,
+      "created_at": "2026-05-22T09:26:14.050Z"
+    },
+    {
+      "id": 16,
+      "user_id": 4,
+      "language": "javascript",
+      "main_file": "main.js",
+      "code_snippet": "function createUser(name, age) {\n    return {\n        name: name,\n        age: age,\n        loginCount: 0\n    };\n}\n\nfunction login(user) {\n    user.loginCount++;\n\n    if (user.loginCount = 5) {\n        console.log(\"Frequent user\");\n    }\n}\n\nfunction calculateAverage(scores) {\n    let total = 0;\n\n    for (let i = 0; i <= scores.length; i++) {\n        total += scores[i];\n    }\n\n    return total / scores.length;\n}\n\nfunction findUser(users, name) {\n\n    for (let i = 0; i < users.length; i++) {\n\n    ",
+      "summary": "The code tries to create users, track logins, calculate averages, and find users, but contains several bugs that will cause errors or unexpected behavior.",
+      "error_titles": [
+        "Assignment instead of comparison",
+        "Returning wrong variable",
+        "Accessing non-existent user",
+        "Using undefined variable",
+        "Loop runs forever"
+      ],
+      "error_types": [
+        "syntax",
+        "logic",
+        "runtime",
+        "runtime",
+        "logic"
+      ],
+      "error_count": 5,
+      "code_smell_count": 2,
+      "created_at": "2026-05-22T09:27:54.626Z"
+    },
+    {
+      "id": 17,
+      "user_id": 4,
+      "language": "java",
+      "main_file": "Main.java",
+      "code_snippet": "import java.util.ArrayList;\n\npublic class BugPractice {\n\n    static int divide(int a, int b) {\n        return a / b;\n    }\n\n    static int findLargest(int[] arr) {\n\n        int largest = arr[0];\n\n        for (int i = 0; i <= arr.length; i++) {\n\n            if (arr[i] > largest) {\n                largest = arr[i];\n            }\n        }\n\n        return largest;\n    }\n\n    public static void main(String[] args) {\n\n        ArrayList<String> names =\n                new ArrayList<>();\n\n        names",
+      "summary": "The code attempts to perform division, find the largest number in an array, and print list elements, but contains several runtime and logic errors.",
+      "error_titles": [
+        "Array Index Out of Bounds",
+        "Division by Zero",
+        "Null Pointer Exception",
+        "Null Pointer Exception",
+        "Inefficient Search Method"
+      ],
+      "error_types": [
+        "runtime",
+        "runtime",
+        "runtime",
+        "runtime",
+        "logical"
+      ],
+      "error_count": 5,
+      "code_smell_count": 2,
+      "created_at": "2026-05-22T09:30:52.595Z"
+    },
+    {
+      "id": 18,
+      "user_id": 4,
+      "language": "cpp",
+      "main_file": "main.cpp",
+      "code_snippet": "#include <iostream>\n#include <vector>\n#include <string>\n\nusing namespace std;\n\nint divide(int a, int b) {\n    return a / b;\n}\n\nint findMax(vector<int> nums) {\n\n    int maxVal = nums[0];\n\n    for (int i = 0; i <= nums.size(); i++) {\n\n        if (nums[i] > maxVal) {\n            maxVal = nums[i];\n        }\n    }\n\n    return maxVal;\n}\n\nint main() {\n\n    vector<string> names;\n\n    names.push_back(\"Alex\");\n    names.push_back(\"Sam\");\n\n    cout << names[5] << endl;\n\n    int result =\n        divide(20, ",
+      "summary": "The program attempts to perform various operations including division, finding maximum value, and string conversion, but contains several runtime and logic errors.",
+      "error_titles": [
+        "Array Index Out of Bounds",
+        "Null Pointer Dereference",
+        "Division by Zero",
+        "Accessing Invalid Vector Index",
+        "Invalid String to Integer Conversion",
+        "Infinite Loop Due to Incorrect Increment"
+      ],
+      "error_types": [
+        "runtime",
+        "runtime",
+        "runtime",
+        "runtime",
+        "runtime",
+        "logical"
+      ],
+      "error_count": 6,
+      "code_smell_count": 2,
+      "created_at": "2026-05-22T09:32:06.325Z"
+    },
+    {
+      "id": 19,
+      "user_id": 4,
+      "language": "java",
+      "main_file": "Main.java",
+      "code_snippet": "import java.util.ArrayList;\n\npublic class BugPractice {\n\n    static int divide(int a, int b) {\n        return a / b;\n    }\n\n    static int findLargest(int[] arr) {\n\n        int largest = arr[0];\n\n        for (int i = 0; i <= arr.length; i++) {\n\n            if (arr[i] > largest) {\n                largest = arr[i];\n            }\n        }\n\n        return largest;\n    }\n\n    public static void main(String[] args) {\n\n        ArrayList<String> names =\n                new ArrayList<>();\n\n        names",
+      "summary": "The code attempts to perform division, find the largest number in an array, and print list elements, but contains several runtime errors and logic flaws.",
+      "error_titles": [
+        "Array Index Out of Bounds",
+        "Division by Zero",
+        "Null Pointer Exception",
+        "Invalid Addition with Null",
+        "Potential Null Pointer Exception"
+      ],
+      "error_types": [
+        "runtime",
+        "runtime",
+        "runtime",
+        "logical",
+        "runtime"
+      ],
+      "error_count": 5,
+      "code_smell_count": 2,
+      "created_at": "2026-05-22T09:34:17.615Z"
+    },
+    {
+      "id": 20,
+      "user_id": 4,
+      "language": "java",
+      "main_file": "Main.java",
+      "code_snippet": "import java.util.ArrayList;\n\npublic class BugPractice {\n\n    static int divide(int a, int b) {\n        return a / b;\n    }\n\n    static int findLargest(int[] arr) {\n\n        int largest = arr[0];\n\n        for (int i = 0; i <= arr.length; i++) {\n\n            if (arr[i] > largest) {\n                largest = arr[i];\n            }\n        }\n\n        return largest;\n    }\n\n    public static void main(String[] args) {\n\n        ArrayList<String> names =\n                new ArrayList<>();\n\n        names",
+      "summary": "The code attempts to perform division, find the largest number in an array, and print elements from a list, but contains several runtime errors and logical flaws.",
+      "error_titles": [
+        "Array Index Out of Bounds",
+        "Division by Zero",
+        "Null Pointer Exception",
+        "Null Pointer Exception",
+        "Invalid Addition with Null"
+      ],
+      "error_types": [
+        "runtime",
+        "runtime",
+        "runtime",
+        "runtime",
+        "logical"
+      ],
+      "error_count": 5,
+      "code_smell_count": 2,
+      "created_at": "2026-05-22T09:49:17.465Z"
+    },
+    {
+      "id": 21,
+      "user_id": 4,
+      "language": "java",
+      "main_file": "Main.java",
+      "code_snippet": "import java.util.ArrayList;\n\npublic class BugPractice {\n\n    static int divide(int a, int b) {\n        return a / b;\n    }\n\n    static int findLargest(int[] arr) {\n\n        int largest = arr[0];\n\n        for (int i = 0; i <= arr.length; i++) {\n\n            if (arr[i] > largest) {\n                largest = arr[i];\n            }\n        }\n\n        return largest;\n    }\n\n    public static void main(String[] args) {\n\n        ArrayList<String> names =\n                new ArrayList<>();\n\n        names",
+      "summary": "The code attempts to perform division, find the largest number in an array, and print list elements, but contains several runtime errors and logic flaws.",
+      "error_titles": [
+        "Array Index Out of Bounds",
+        "Division by Zero",
+        "Null Pointer Exception",
+        "Null Pointer Exception",
+        "Invalid Addition with Null"
+      ],
+      "error_types": [
+        "runtime",
+        "runtime",
+        "runtime",
+        "runtime",
+        "logical"
+      ],
+      "error_count": 5,
+      "code_smell_count": 1,
+      "created_at": "2026-05-22T09:50:47.171Z"
+    },
+    {
+      "id": 22,
+      "user_id": 4,
+      "language": "python",
+      "main_file": "main.py",
+      "code_snippet": "import java.util.ArrayList;\n\npublic class BugPractice {\n\n    static int divide(int a, int b) {\n        return a / b;\n    }\n\n    static int findLargest(int[] arr) {\n\n        int largest = arr[0];\n\n        for (int i = 0; i <= arr.length; i++) {\n\n            if (arr[i] > largest) {\n                largest = arr[i];\n            }\n        }\n\n        return largest;\n    }\n\n    public static void main(String[] args) {\n\n        ArrayList<String> names =\n                new ArrayList<>();\n\n        names",
+      "summary": "The code attempts to perform division, find the largest number in an array, and print list elements, but contains several runtime and logic errors.",
+      "error_titles": [
+        "Array Index Out of Bounds",
+        "Division by Zero",
+        "Null Pointer Exception",
+        "Invalid Addition with Null",
+        "Null Pointer Exception"
+      ],
+      "error_types": [
+        "runtime",
+        "runtime",
+        "runtime",
+        "logical",
+        "runtime"
+      ],
+      "error_count": 5,
+      "code_smell_count": 1,
+      "created_at": "2026-05-22T09:54:31.232Z"
+    },
+    {
+      "id": 23,
+      "user_id": 4,
+      "language": "java",
+      "main_file": "Main.java",
+      "code_snippet": "import java.util.ArrayList;\n\npublic class BugPractice {\n\n    static int divide(int a, int b) {\n        return a / b;\n    }\n\n    static int findLargest(int[] arr) {\n\n        int largest = arr[0];\n\n        for (int i = 0; i <= arr.length; i++) {\n\n            if (arr[i] > largest) {\n                largest = arr[i];\n            }\n        }\n\n        return largest;\n    }\n\n    public static void main(String[] args) {\n\n        ArrayList<String> names =\n                new ArrayList<>();\n\n        names",
+      "summary": "The code attempts to perform division, find the largest number in an array, and access list elements, but contains several runtime errors and logic flaws.",
+      "error_titles": [
+        "Array Index Out of Bounds",
+        "Division by Zero",
+        "Null Pointer Exception",
+        "Invalid Addition with Null",
+        "Null Pointer Exception"
+      ],
+      "error_types": [
+        "runtime",
+        "runtime",
+        "runtime",
+        "logical",
+        "runtime"
+      ],
+      "error_count": 5,
+      "code_smell_count": 1,
+      "created_at": "2026-05-22T10:04:00.904Z"
+    },
+    {
+      "id": 24,
+      "user_id": 4,
+      "language": "java",
+      "main_file": "Main.java",
+      "code_snippet": "import java.util.Scanner;\nimport java.util.ArrayList;\n\npublic class DebugPractice {\n\n    static Scanner sc = new Scanner(System.in);\n\n    static int calculateAverage(ArrayList<Integer> marks) {\n\n        int sum = 0;\n\n        for (int i = 0; i <= marks.size(); i++) {\n            sum += marks.get(i);\n        }\n\n        return sum / marks.size();\n    }\n\n    static int findStudent(ArrayList<String> students,\n                           String name) {\n\n        for (int i = 0; i < students.size(); i++)",
+      "summary": "The program collects student names and marks, searches for a student, calculates the average mark, and prints the student at a specific index and the result of a division.",
+      "error_titles": [
+        "Array Index Out of Bounds",
+        "Null Pointer Exception Risk",
+        "Array Index Out of Bounds",
+        "Division by Zero"
+      ],
+      "error_types": [
+        "runtime",
+        "runtime",
+        "runtime",
+        "runtime"
+      ],
+      "error_count": 4,
+      "code_smell_count": 2,
+      "created_at": "2026-05-22T10:06:12.088Z"
+    },
+    {
+      "id": 25,
+      "user_id": 4,
+      "language": "python",
+      "main_file": "main.py",
+      "code_snippet": "import java.util.Scanner;\nimport java.util.ArrayList;\n\npublic class DebugPractice {\n\n    static Scanner sc = new Scanner(System.in);\n\n    static int calculateAverage(ArrayList<Integer> marks) {\n\n        int sum = 0;\n\n        for (int i = 0; i <= marks.size(); i++) {\n            sum += marks.get(i);\n        }\n\n        return sum / marks.size();\n    }\n\n    static int findStudent(ArrayList<String> students,\n                           String name) {\n\n        for (int i = 0; i < students.size(); i++)",
+      "summary": "The code attempts to collect student names and marks, search for a student, calculate the average mark, and print results.",
+      "error_titles": [
+        "Incorrect Language Used",
+        "Array Index Out of Bounds",
+        "String Comparison Using '=='",
+        "Division by Zero",
+        "Null Pointer Exception Risk"
+      ],
+      "error_types": [
+        "syntax",
+        "runtime",
+        "logical",
+        "runtime",
+        "runtime"
+      ],
+      "error_count": 5,
+      "code_smell_count": 2,
+      "created_at": "2026-05-22T10:10:24.904Z"
+    },
+    {
+      "id": 26,
+      "user_id": 4,
+      "language": "java",
+      "main_file": "Main.java",
+      "code_snippet": "import java.util.Scanner;\nimport java.util.ArrayList;\n\npublic class DebugPractice {\n\n    static Scanner sc = new Scanner(System.in);\n\n    static int calculateAverage(ArrayList<Integer> marks) {\n\n        int sum = 0;\n\n        for (int i = 0; i <= marks.size(); i++) {\n            sum += marks.get(i);\n        }\n\n        return sum / marks.size();\n    }\n\n    static int findStudent(ArrayList<String> students,\n                           String name) {\n\n        for (int i = 0; i < students.size(); i++)",
+      "summary": "The program collects student names and marks, searches for a student, calculates the average mark, and prints the student at a specific index and performs division.",
+      "error_titles": [
+        "Array Index Out of Bounds",
+        "Null Pointer Exception Risk",
+        "Division by Zero",
+        "Array Index Out of Bounds"
+      ],
+      "error_types": [
+        "runtime",
+        "runtime",
+        "runtime",
+        "runtime"
+      ],
+      "error_count": 4,
+      "code_smell_count": 2,
+      "created_at": "2026-05-22T10:14:35.174Z"
+    },
+    {
+      "id": 27,
+      "user_id": 4,
+      "language": "java",
+      "main_file": "Main.java",
+      "code_snippet": "import java.util.*;\nimport java.io.*;\n\nclass Product {\n\n    int id;\n    String name;\n    int quantity;\n    double price;\n\n    Product(int id, String name,\n            int quantity,\n            double price) {\n\n        this.id = id;\n        this.name = name;\n        this.quantity = quantity;\n        this.price = price;\n    }\n\n    double inventoryValue() {\n        return quantity * price;\n    }\n\n    public String toString() {\n\n        return id + \" \" +\n               name + \" \" +\n               qu",
+      "summary": "The code implements a basic inventory management system with product tracking, user authentication, and data persistence.",
+      "error_titles": [
+        "Division by Zero",
+        "Array Index Out of Bounds",
+        "Array Index Out of Bounds",
+        "Null Pointer Exception Risk",
+        "Potential Null Pointer Exception",
+        "Incorrect Loop Condition in Remove Method"
+      ],
+      "error_types": [
+        "runtime",
+        "runtime",
+        "runtime",
+        "runtime",
+        "runtime",
+        "logical"
+      ],
+      "error_count": 6,
+      "code_smell_count": 3,
+      "created_at": "2026-05-22T10:24:49.038Z"
+    },
+    {
+      "id": 28,
+      "user_id": 4,
+      "language": "java",
+      "main_file": "Main.java",
+      "code_snippet": "import java.util.*;\nimport java.io.*;\n\nclass Product {\n\n    int id;\n    String name;\n    int quantity;\n    double price;\n\n    Product(int id, String name,\n            int quantity,\n            double price) {\n\n        this.id = id;\n        this.name = name;\n        this.quantity = quantity;\n        this.price = price;\n    }\n\n    double inventoryValue() {\n        return quantity * price;\n    }\n\n    public String toString() {\n\n        return id + \" \" +\n               name + \" \" +\n               qu",
+      "summary": "This program implements a basic inventory management system with user authentication, allowing users to add, remove, search, display products, and calculate average and maximum prices.",
+      "error_titles": [
+        "Division by Zero Error",
+        "Array Index Out of Bounds",
+        "Array Index Out of Bounds",
+        "Potential Null Pointer Exception",
+        "Null Pointer Exception Risk"
+      ],
+      "error_types": [
+        "runtime",
+        "runtime",
+        "runtime",
+        "logical",
+        "runtime"
+      ],
+      "error_count": 5,
+      "code_smell_count": 4,
+      "created_at": "2026-05-22T10:28:20.347Z"
+    },
+    {
+      "id": 29,
+      "user_id": 4,
+      "language": "java",
+      "main_file": "main.java",
+      "code_snippet": "import java.util.*;\nimport java.io.*;\n\nclass Product {\n\n    int id;\n    String name;\n    int quantity;\n    double price;\n\n    Product(int id, String name,\n            int quantity,\n            double price) {\n\n        this.id = id;\n        this.name = name;\n        this.quantity = quantity;\n        this.price = price;\n    }\n\n    double inventoryValue() {\n        return quantity * price;\n    }\n\n    public String toString() {\n\n        return id + \" \" +\n               name + \" \" +\n               qu",
+      "summary": "This program implements a basic inventory management system with user authentication, product addition, removal, searching, and display features.",
+      "error_titles": [
+        "Division by zero",
+        "Array index out of bounds in remove method",
+        "Array index out of bounds in averagePrice method",
+        "Potential null pointer exception in find method",
+        "Null pointer exception risk in expensive method"
+      ],
+      "error_types": [
+        "runtime",
+        "runtime",
+        "runtime",
+        "logical",
+        "runtime"
+      ],
+      "error_count": 5,
+      "code_smell_count": 3,
+      "created_at": "2026-05-22T10:34:56.485Z"
+    },
+    {
+      "id": 30,
+      "user_id": 4,
+      "language": "java",
+      "main_file": "main.java",
+      "code_snippet": "import java.util.*;\nimport java.io.*;\n\nclass Product {\n\n    int id;\n    String name;\n    int quantity;\n    double price;\n\n    Product(int id, String name,\n            int quantity,\n            double price) {\n\n        this.id = id;\n        this.name = name;\n        this.quantity = quantity;\n        this.price = price;\n    }\n\n    double inventoryValue() {\n        return quantity * price;\n    }\n\n    public String toString() {\n\n        return id + \" \" +\n               name + \" \" +\n               qu",
+      "summary": "This program implements a basic inventory management system with user authentication, product addition, removal, searching, and display functionalities.",
+      "error_titles": [
+        "Division by Zero Error",
+        "Array Index Out of Bounds",
+        "Array Index Out of Bounds",
+        "Potential Null Pointer Exception",
+        "Null Pointer Exception Risk"
+      ],
+      "error_types": [
+        "runtime",
+        "runtime",
+        "runtime",
+        "logical",
+        "runtime"
+      ],
+      "error_count": 5,
+      "code_smell_count": 3,
+      "created_at": "2026-05-22T10:37:26.205Z"
+    },
+    {
+      "id": 31,
+      "user_id": 4,
+      "language": "java",
+      "main_file": "main.java",
+      "code_snippet": "import java.util.Scanner;\n\npublic class StudentMarks {\n    public static void main(String args[]) {\n        Scanner sc = new Scanner(System.in);\n\n        int n = sc.nextInt();\n        int marks[] = new int[n];\n\n        int total = 0;\n\n        for(int i=0; i<=n; i++) {   // Bug 1\n            marks[i] = sc.nextInt();\n            total += marks[i];\n        }\n\n        double avg = total / n;    // Bug 2\n\n        if(avg > 90)\n            System.out.println(\"Grade A\");\n        else if(avg > 75)\n      ",
+      "summary": "The program calculates the average of student marks and assigns a grade based on that average.",
+      "error_titles": [
+        "Array Index Out of Bounds",
+        "Integer Division Truncation"
+      ],
+      "error_types": [
+        "runtime",
+        "logical"
+      ],
+      "error_count": 2,
+      "code_smell_count": 1,
+      "created_at": "2026-05-22T10:45:30.819Z"
+    },
+    {
+      "id": 32,
+      "user_id": 4,
+      "language": "python",
+      "main_file": "main.py",
+      "code_snippet": "n = int(input())\n\nnumbers = []\n\nfor i in range(n):\n    numbers.append(int(input()))\n\nlargest = numbers[0]\n\nfor i in range(1, n+1):   # Bug 1\n    if numbers[i] > largest:\n        largest = numbers[i]\n\nsum = 0\n\nfor x in numbers:\n    sum += x\n\naverage = sum / n\n\nif average > 50:\n    print(\"Pass\")\nelse:\n    print(\"Fail\")\n\nprint(\"Largest:\", large)  # Bug 2",
+      "summary": "The code reads a list of numbers, finds the largest and average, and prints whether the average is greater than 50.",
+      "error_titles": [
+        "Array index out of bounds",
+        "Division by zero",
+        "Undefined variable"
+      ],
+      "error_types": [
+        "runtime",
+        "runtime",
+        "syntax"
+      ],
+      "error_count": 3,
+      "code_smell_count": 2,
+      "created_at": "2026-05-22T10:47:09.788Z"
+    },
+    {
+      "id": 33,
+      "user_id": 4,
+      "language": "javascript",
+      "main_file": "main.js",
+      "code_snippet": "const prompt = require(\"prompt-sync\")();\n\nlet n = parseInt(prompt());\n\nlet arr = [];\n\nfor(let i=0;i<n;i++){\n    arr.push(parseInt(prompt()));\n}\n\nlet total = 0;\n\nfor(let i=0;i<=arr.length;i++){ // Bug 1\n    total += arr[i];\n}\n\nlet avg = total/n;\n\nif(avg >= 80){\n    console.log(\"Excellent\");\n}\nelse(avg >= 50){ // Bug 2\n    console.log(\"Good\");\n}\nelse{\n    console.log(\"Poor\");\n}\n\nconsole.log(\"Average =\", average); // Bug 3",
+      "summary": "The code calculates the average of numbers entered by the user and prints a performance grade based on that average.",
+      "error_titles": [
+        "Array Index Out of Bounds",
+        "Incorrect Else-If Syntax",
+        "ReferenceError: 'average' is not defined"
+      ],
+      "error_types": [
+        "runtime",
+        "syntax",
+        "runtime"
+      ],
+      "error_count": 3,
+      "code_smell_count": 1,
+      "created_at": "2026-05-22T10:48:31.568Z"
+    },
+    {
+      "id": 34,
+      "user_id": 4,
+      "language": "javascript",
+      "main_file": "main.js",
+      "code_snippet": "const prompt = require(\"prompt-sync\")();\n\nlet n = parseInt(prompt());\n\nlet arr = [];\n\nfor(let i=0;i<n;i++){\n    arr.push(parseInt(prompt()));\n}\n\nlet total = 0;\n\nfor(let i=0;i<=arr.length;i++){ // Bug 1\n    total += arr[i];\n}\n\nlet avg = total/n;\n\nif(avg >= 80){\n    console.log(\"Excellent\");\n}\nelse(avg >= 50){ // Bug 2\n    console.log(\"Good\");\n}\nelse{\n    console.log(\"Poor\");\n}\n\nconsole.log(\"Average =\", average); // Bug 3",
+      "summary": "The code calculates the average of numbers entered by the user and prints a performance grade based on that average.",
+      "error_titles": [
+        "Array Index Out of Bounds",
+        "Incorrect Else-If Syntax",
+        "Reference to Undefined Variable"
+      ],
+      "error_types": [
+        "runtime",
+        "syntax",
+        "runtime"
+      ],
+      "error_count": 3,
+      "code_smell_count": 1,
+      "created_at": "2026-05-22T10:48:59.737Z"
+    },
+    {
+      "id": 35,
+      "user_id": 4,
+      "language": "javascript",
+      "main_file": "main.js",
+      "code_snippet": "const prompt = require(\"prompt-sync\")();\n\nlet n = parseInt(prompt());\n\nlet arr = [];\n\nfor(let i=0;i<n;i++){\n    arr.push(parseInt(prompt()));\n}\n\nlet total = 0;\n\nfor(let i=0;i<=arr.length;i++){ // Bug 1\n    total += arr[i];\n}\n\nlet avg = total/n;\n\nif(avg >= 80){\n    console.log(\"Excellent\");\n}\nelse(avg >= 50){ // Bug 2\n    console.log(\"Good\");\n}\nelse{\n    console.log(\"Poor\");\n}\n\nconsole.log(\"Average =\", average); // Bug 3",
+      "summary": "The code calculates the average of numbers entered by the user and prints a performance grade based on that average.",
+      "error_titles": [
+        "Array Index Out of Bounds",
+        "Incorrect Else-If Syntax",
+        "ReferenceError: Undefined Variable"
+      ],
+      "error_types": [
+        "runtime",
+        "logical",
+        "runtime"
+      ],
+      "error_count": 3,
+      "code_smell_count": 1,
+      "created_at": "2026-05-22T10:54:15.233Z"
+    },
+    {
+      "id": 36,
+      "user_id": 4,
+      "language": "javascript",
+      "main_file": "main.js",
+      "code_snippet": "const prompt = require(\"prompt-sync\")();\n\nlet n = parseInt(prompt());\n\nlet arr = [];\n\nfor(let i=0;i<n;i++){\n    arr.push(parseInt(prompt()));\n}\n\nlet total = 0;\n\nfor(let i=0;i<=arr.length;i++){ // Bug 1\n    total += arr[i];\n}\n\nlet avg = total/n;\n\nif(avg >= 80){\n    console.log(\"Excellent\");\n}\nelse(avg >= 50){ // Bug 2\n    console.log(\"Good\");\n}\nelse{\n    console.log(\"Poor\");\n}\n\nconsole.log(\"Average =\", average); // Bug 3",
+      "summary": "The code reads numbers into an array, calculates their average, and prints a grade based on that average.",
+      "error_titles": [
+        "Array Index Out of Bounds",
+        "Incorrect Else-If Syntax",
+        "ReferenceError: Undefined Variable"
+      ],
+      "error_types": [
+        "runtime",
+        "syntax",
+        "runtime"
+      ],
+      "error_count": 3,
+      "code_smell_count": 1,
+      "created_at": "2026-05-22T10:54:27.481Z"
+    },
+    {
+      "id": 37,
+      "user_id": 4,
+      "language": "javascript",
+      "main_file": "main.js",
+      "code_snippet": "const prompt = require(\"prompt-sync\")();\n\nlet n = parseInt(prompt());\n\nlet arr = [];\n\nfor(let i=0;i<n;i++){\n    arr.push(parseInt(prompt()));\n}\n\nlet total = 0;\n\nfor(let i=0;i<=arr.length;i++){ // Bug 1\n    total += arr[i];\n}\n\nlet avg = total/n;\n\nif(avg >= 80){\n    console.log(\"Excellent\");\n}\nelse(avg >= 50){ // Bug 2\n    console.log(\"Good\");\n}\nelse{\n    console.log(\"Poor\");\n}\n\nconsole.log(\"Average =\", average); // Bug 3",
+      "summary": "The code calculates the average of numbers entered by the user and prints a performance grade based on that average.",
+      "error_titles": [
+        "Array Index Out of Bounds",
+        "Incorrect Else-If Syntax",
+        "ReferenceError: 'average' is not defined"
+      ],
+      "error_types": [
+        "runtime",
+        "syntax",
+        "runtime"
+      ],
+      "error_count": 3,
+      "code_smell_count": 2,
+      "created_at": "2026-05-22T11:06:16.503Z"
+    },
+    {
+      "id": 38,
+      "user_id": 5,
+      "language": "python",
+      "main_file": "main.py",
+      "code_snippet": "# Welcome to CodeMedic AI!\n# Paste your code here and click \"Debug Code\"\n\ndef greet(name):\n    print(\"Hello, \" + name)\n\ngreet(\"World\")\ngreet(\"CodeMedic\")\n",
+      "summary": "The code defines a function to greet people by name and calls it twice.",
+      "error_titles": [],
+      "error_types": [],
+      "error_count": 0,
+      "code_smell_count": 2,
+      "created_at": "2026-05-22T11:53:59.325Z"
+    },
+    {
+      "id": 39,
+      "user_id": 5,
+      "language": "python",
+      "main_file": "main.py",
+      "code_snippet": "# Welcome to CodeMedic AI!\n# Paste your code here and click \"Debug Code\"\n\ndef greet(name):\n    print(\"Hello, \" + name)\n\ngreet(\"World\")\ngreet(\"CodeMedic\")\n",
+      "summary": "The code defines a function that greets a person by name and calls it twice with different names.",
+      "error_titles": [],
+      "error_types": [],
+      "error_count": 0,
+      "code_smell_count": 1,
+      "created_at": "2026-05-22T11:59:44.598Z"
+    },
+    {
+      "id": 40,
+      "user_id": 5,
+      "language": "java",
+      "main_file": "main.java",
+      "code_snippet": "import java.util.Scanner;\n\npublic class StudentMarks {\n    public static void main(String args[]) {\n        Scanner sc = new Scanner(System.in);\n\n        int n = sc.nextInt();\n        int marks[] = new int[n];\n\n        int total = 0;\n\n        for(int i=0; i<=n; i++) {   // Bug 1\n            marks[i] = sc.nextInt();\n            total += marks[i];\n        }\n\n        double avg = total / n;    // Bug 2\n\n        if(avg > 90)\n            System.out.println(\"Grade A\");\n        else if(avg > 75)\n      ",
+      "summary": "The program calculates the average of student marks and assigns a grade based on that average.",
+      "error_titles": [
+        "Array Index Out of Bounds",
+        "Integer Division Problem"
+      ],
+      "error_types": [
+        "logical",
+        "logical"
+      ],
+      "error_count": 2,
+      "code_smell_count": 1,
+      "created_at": "2026-05-22T12:01:46.360Z"
+    },
+    {
+      "id": 41,
+      "user_id": 5,
+      "language": "python",
+      "main_file": "main.py",
+      "code_snippet": "# Welcome to CodeMedic AI!\n# Paste your code here and click \"Debug Code\"\n\ndef greet(name):\n    print(\"Hello, \" + name)\n\ngreet(\"World\")\ngreet(\"CodeMedic\")\n",
+      "summary": "The code defines a function that greets a person by name and calls it twice with different names.",
+      "error_titles": [],
+      "error_types": [],
+      "error_count": 0,
+      "code_smell_count": 0,
+      "created_at": "2026-05-22T12:15:34.191Z"
+    },
+    {
+      "id": 42,
+      "user_id": 5,
+      "language": "java",
+      "main_file": "main.java",
+      "code_snippet": "import java.util.Scanner;\n\npublic class StudentMarks {\n    public static void main(String args[]) {\n        Scanner sc = new Scanner(System.in);\n\n        int n = sc.nextInt();\n        int marks[] = new int[n];\n\n        int total = 0;\n\n        for(int i=0; i<=n; i++) {   // Bug 1\n            marks[i] = sc.nextInt();\n            total += marks[i];\n        }\n\n        double avg = total / n;    // Bug 2\n\n        if(avg > 90)\n            System.out.println(\"Grade A\");\n        else if(avg > 75)\n      ",
+      "summary": "The program calculates the average of student marks and assigns a grade based on that average.",
+      "error_titles": [
+        "Array Index Out of Bounds",
+        "Integer Division Problem"
+      ],
+      "error_types": [
+        "logical",
+        "logical"
+      ],
+      "error_count": 2,
+      "code_smell_count": 1,
+      "created_at": "2026-05-22T12:16:06.140Z"
+    },
+    {
+      "id": 43,
+      "user_id": 5,
+      "language": "python",
+      "main_file": "main.py",
+      "code_snippet": "# Welcome to CodeMedic AI!\n# Paste your code here and click \"Debug Code\"\n\ndef greet(name):\n    print(\"Hello, \" + name)\n\ngreet(\"World\")\ngreet(\"CodeMedic\")\n",
+      "summary": "The code defines a simple greeting function that prints a message to the console.",
+      "error_titles": [],
+      "error_types": [],
+      "error_count": 0,
+      "code_smell_count": 1,
+      "created_at": "2026-05-22T12:26:36.026Z"
+    },
+    {
+      "id": 44,
+      "user_id": 5,
+      "language": "java",
+      "main_file": "main.java",
+      "code_snippet": "import java.util.Scanner;\n\npublic class StudentMarks {\n    public static void main(String args[]) {\n        Scanner sc = new Scanner(System.in);\n\n        int n = sc.nextInt();\n        int marks[] = new int[n];\n\n        int total = 0;\n\n        for(int i=0; i<=n; i++) {   // Bug 1\n            marks[i] = sc.nextInt();\n            total += marks[i];\n        }\n\n        double avg = total / n;    // Bug 2\n\n        if(avg > 90)\n            System.out.println(\"Grade A\");\n        else if(avg > 75)\n      ",
+      "summary": "The program calculates the average of student marks and assigns a grade based on that average.",
+      "error_titles": [
+        "Array Index Out of Bounds",
+        "Integer Division Problem"
+      ],
+      "error_types": [
+        "logical",
+        "logical"
+      ],
+      "error_count": 2,
+      "code_smell_count": 1,
+      "created_at": "2026-05-22T12:27:14.422Z"
+    },
+    {
+      "id": 45,
+      "user_id": 5,
+      "language": "java",
+      "main_file": "main.java",
+      "code_snippet": "import java.util.Scanner;\n\npublic class StudentMarks {\n    public static void main(String args[]) {\n        Scanner sc = new Scanner(System.in);\n\n        int n = sc.nextInt();\n        int marks[] = new int[n];\n\n        int total = 0;\n\n        for(int i=0; i<=n; i++) {   // Bug 1\n            marks[i] = sc.nextInt();\n            total += marks[i];\n        }\n\n        double avg = total / n;    // Bug 2\n\n        if(avg > 90)\n            System.out.println(\"Grade A\");\n        else if(avg > 75)\n      ",
+      "summary": "The program calculates the average of student marks and assigns a grade based on that average.",
+      "error_titles": [
+        "Array Index Out of Bounds",
+        "Integer Division Problem"
+      ],
+      "error_types": [
+        "logical",
+        "logical"
+      ],
+      "error_count": 2,
+      "code_smell_count": 1,
+      "created_at": "2026-05-22T12:34:12.264Z"
+    },
+    {
+      "id": 46,
+      "user_id": 1,
+      "language": "java",
+      "main_file": "main.java",
+      "code_snippet": "// Buggy Java Code Example (100+ lines)\n\nimport java.util.*;\n\npublic class BuggyProgram {\n\n    static Scanner sc = new Scanner(System.in);\n\n    public static void main(String args[]) {\n\n        int choice = 0;\n        String name = null;\n\n        System.out.println(\"Welcome to Student System\");\n\n        while(choice != 5) {\n\n            System.out.println(\"\\n1. Enter Name\");\n            System.out.println(\"2. Print Numbers\");\n            System.out.println(\"3. Divide Numbers\");\n            Syste",
+      "summary": "This program is meant to be a menu-driven system for students, but it has several bugs that will cause errors or unexpected behavior.",
+      "error_titles": [
+        "Infinite Loop in For Loop",
+        "Array Index Out of Bounds",
+        "Unreachable Code",
+        "Division by Zero",
+        "Null Pointer Exception",
+        "Index Out of Bounds in List",
+        "Semicolon After If Statement"
+      ],
+      "error_types": [
+        "runtime",
+        "runtime",
+        "logical",
+        "runtime",
+        "runtime",
+        "runtime",
+        "syntax"
+      ],
+      "error_count": 7,
+      "code_smell_count": 2,
+      "created_at": "2026-05-22T13:22:55.238Z"
+    },
+    {
+      "id": 47,
+      "user_id": 1,
+      "language": "javascript",
+      "main_file": "main.js",
+      "code_snippet": "// Buggy JavaScript Code Example\n\nconsole.log(\"Starting Program...\");\n\nlet users = [\"Parth\", \"Aman\", \"Riya\"];\nlet scores = [90, 80, 70];\n\nfunction printUsers() {\n\n    for (let i = 0; i <= users.length; i++) {\n        console.log(\"User:\", users[i]);\n    }\n\n}\n\nfunction calculateAverage() {\n\n    let total = 0;\n\n    for (let i = 0; i < scores.length; i++) {\n        total = total + score[i];\n    }\n\n    let avg = total / 0;\n\n    console.log(\"Average Score:\", avg);\n\n}\n\nfunction login(username, password",
+      "summary": "This program attempts to perform various operations like printing users, calculating averages, logging in, dividing numbers, and more, but contains several bugs that will cause errors or unexpected behavior.",
+      "error_titles": [
+        "Array Index Out of Bounds",
+        "ReferenceError: 'score' is not defined",
+        "Division by Zero",
+        "Accessing Property of Null",
+        "Infinite Loop",
+        "Calling Method on Undefined Value",
+        "Variable Not Defined Before Use",
+        "Invalid JSON Syntax",
+        "Accessing Property of Undefined",
+        "NaN (Not a Number) Result",
+        "Calling Method on Undefined",
+        "Infinite Recursion"
+      ],
+      "error_types": [
+        "runtime",
+        "runtime",
+        "runtime",
+        "runtime",
+        "runtime",
+        "runtime",
+        "runtime",
+        "runtime",
+        "runtime",
+        "runtime",
+        "runtime",
+        "runtime"
+      ],
+      "error_count": 12,
+      "code_smell_count": 3,
+      "created_at": "2026-05-22T13:25:44.858Z"
+    },
+    {
+      "id": 48,
+      "user_id": 1,
+      "language": "cpp",
+      "main_file": "main.cpp",
+      "code_snippet": "#include <iostream>\n#include <string>\n#include <vector>\n\nusing namespace std;\n\nclass Student {\npublic:\n    string name;\n    int marks;\n\n    void input() {\n        cout << \"Enter name: \";\n        cin >> name;\n\n        cout << \"Enter marks: \";\n        cin >> marks;\n    }\n\n    void display() {\n        cout << \"Name: \" << name << endl;\n        cout << \"Marks: \" << marks << endl;\n\n        if(marks > 90);\n        {\n            cout << \"Excellent Student\" << endl;\n        }\n    }\n};\n\nint divide(int a, ",
+      "summary": "The program tries to demonstrate various C++ concepts but contains many runtime errors and logical flaws that will crash or misbehave when run.",
+      "error_titles": [
+        "Array Index Out of Bounds",
+        "Dereferencing Null Pointer",
+        "String Index Out of Bounds",
+        "Vector Index Out of Bounds",
+        "Infinite Loop",
+        "Stack Overflow Due to Recursion",
+        "Memory Leak",
+        "Type Mismatch",
+        "Uninitialized Variable Usage",
+        "Array Index Out of Bounds",
+        "Using NULL String",
+        "Division by Zero"
+      ],
+      "error_types": [
+        "runtime",
+        "runtime",
+        "runtime",
+        "runtime",
+        "runtime",
+        "runtime",
+        "runtime",
+        "logical",
+        "runtime",
+        "runtime",
+        "runtime",
+        "runtime"
+      ],
+      "error_count": 12,
+      "code_smell_count": 2,
+      "created_at": "2026-05-22T13:28:34.750Z"
+    },
+    {
+      "id": 49,
+      "user_id": 3,
+      "language": "python",
+      "main_file": "main.py",
+      "code_snippet": "# Welcome to CodeMedic AI!\n# Paste your code here and click \"Debug Code\"\n\ndef greet(name):\n    print(\"Hello, \" + name)\n\ngreet(\"World\")\ngreet(\"CodeMedic\")\n",
+      "summary": "The code defines a function to greet people by name and calls it twice.",
+      "error_titles": [],
+      "error_types": [],
+      "error_count": 0,
+      "code_smell_count": 1,
+      "created_at": "2026-05-22T13:43:20.255Z"
+    },
+    {
+      "id": 50,
+      "user_id": 3,
+      "language": "java",
+      "main_file": "main.java",
+      "code_snippet": "public class BuggyProgram {\n    public static void main(String[] args) {\n        int[] numbers = {1, 2, 3, 4, 5};\n\n        for (int i = 0; i <= numbers.length; i++) {\n            System.out.println(\"Number: \" + numbers[i]);\n        }\n\n        String text = null;\n        System.out.println(text.length());\n\n        int result = divide(10, 0);\n        System.out.println(\"Result: \" + result);\n\n        int total = calculateSum(numbers);\n        System.out.println(\"Total: \" + total);\n\n        Person p",
+      "summary": "This program tries to demonstrate basic Java operations but contains multiple errors that will cause it to crash or behave incorrectly.",
+      "error_titles": [
+        "Null Pointer Exception",
+        "Division by Zero Error",
+        "Infinite Loop",
+        "Type Mismatch Error",
+        "Loop Counter Issue",
+        "Array Index Out of Bounds",
+        "NumberFormatException",
+        "Return Type Mismatch",
+        "Assignment Instead of Comparison",
+        "Missing Semicolon",
+        "Array Access Beyond Limits",
+        "Uninitialized Variable"
+      ],
+      "error_types": [
+        "runtime",
+        "runtime",
+        "logical",
+        "syntax",
+        "logical",
+        "runtime",
+        "runtime",
+        "syntax",
+        "syntax",
+        "syntax",
+        "logical",
+        "logical"
+      ],
+      "error_count": 12,
+      "code_smell_count": 2,
+      "created_at": "2026-05-22T13:46:02.803Z"
+    },
+    {
+      "id": 51,
+      "user_id": 4,
+      "language": "python",
+      "main_file": "main.py",
+      "code_snippet": "# Welcome to CodeMedic AI!\n# Paste your code here and click \"Debug Code\"\n\ndef greet(name):\n    print(\"Hello, \" + name)\n\ngreet(\"World\")\ngreet(\"CodeMedic\")\n",
+      "summary": "The code defines a simple greeting function and calls it twice with different names.",
+      "error_titles": [],
+      "error_types": [],
+      "error_count": 0,
+      "code_smell_count": 0,
+      "created_at": "2026-05-24T05:17:52.804Z"
+    },
+    {
+      "id": 52,
+      "user_id": 4,
+      "language": "python",
+      "main_file": "main.py",
+      "code_snippet": "# Buggy Python Program (contains multiple intentional bugs)\n\ndef calculate_average(numbers):\n    total = 0\n    for n in numbers:\n        total += n\n    return total / len(numbers) + 1   # BUG: wrong average calculation\n\ndef find_max(numbers):\n    maximum = 0   # BUG: fails for all negative numbers\n    for n in numbers:\n        if n > maximum:\n            maximum = n\n    return maximum\n\nnums = input(\"Enter numbers separated by spaces: \")\n\nnums_list = nums.split(\" \")\nnums_list = [int(x) for x in n",
+      "summary": "The program calculates the average and finds the maximum of a list of numbers entered by the user.",
+      "error_titles": [
+        "Division by zero",
+        "Incorrect average calculation",
+        "Fails for negative numbers",
+        "Missing colon in if statement"
+      ],
+      "error_types": [
+        "runtime",
+        "logical",
+        "logical",
+        "syntax"
+      ],
+      "error_count": 4,
+      "code_smell_count": 2,
+      "created_at": "2026-05-24T05:20:31.534Z"
+    },
+    {
+      "id": 53,
+      "user_id": 5,
+      "language": "java",
+      "main_file": "Main.java",
+      "code_snippet": "public class BuggyProgram {\n\n    public static void main(String[] args) {\n\n        int numbers[] = {10, 20, 30, 40, 50};\n\n        for(int i = 0; i <= numbers.length; i++) {\n            System.out.println(\"Number: \" + numbers[i]);\n        }\n\n        String name = null;\n        System.out.println(name.length());\n\n        int a = 10;\n        int b = 0;\n        int result = a / b;\n\n        if(a = 10) {\n            System.out.println(\"A is 10\");\n        }\n\n        System.out.println(\"Result: \" + resu",
+      "summary": "The program attempts to print array elements, access a null string, perform division by zero, and use incorrect conditional syntax.",
+      "error_titles": [
+        "Array Index Out of Bounds",
+        "Null Pointer Exception",
+        "Division by Zero",
+        "Assignment Instead of Comparison"
+      ],
+      "error_types": [
+        "logical",
+        "runtime",
+        "runtime",
+        "syntax"
+      ],
+      "error_count": 4,
+      "code_smell_count": 1,
+      "created_at": "2026-05-24T08:00:34.456Z"
+    },
+    {
+      "id": 54,
+      "user_id": 6,
+      "language": "java",
+      "main_file": "main.java",
+      "code_snippet": "public class BuggyProgram {\n\n    public static void main(String args[]) {\n\n        int numbers[] = {10, 20, 30, 40, 50};\n\n        for(int i = 0; i <= numbers.length; i++) {\n            System.out.println(\"Number: \" + numbers[i]);\n        }\n\n        String name = null;\n        System.out.println(name.length());\n\n        int result = divideNumbers(10, 0);\n        System.out.println(\"Result is \" + result);\n\n        Scanner sc = new Scanner(System.in);\n        System.out.println(\"Enter age:\");\n     ",
+      "summary": "The program tries to print numbers, get user input, and perform some operations, but has several bugs that will cause errors.",
+      "error_titles": [
+        "Missing semicolon",
+        "Array index out of bounds",
+        "Null pointer exception",
+        "Division by zero",
+        "Wrong operator for comparison",
+        "Type mismatch in ArrayList",
+        "Missing import statement",
+        "Wrong method for reading integers"
+      ],
+      "error_types": [
+        "syntax",
+        "runtime",
+        "runtime",
+        "runtime",
+        "logic",
+        "logic",
+        "syntax",
+        "logic"
+      ],
+      "error_count": 8,
+      "code_smell_count": 0,
+      "created_at": "2026-05-24T08:48:55.144Z"
+    },
+    {
+      "id": 55,
+      "user_id": 7,
+      "language": "python",
+      "main_file": "main.py",
+      "code_snippet": "# Welcome to CodeMedic AI!\n# Paste your code here and click \"Debug Code\"\n\ndef greet(name):\n    print(\"Hello, \" + name)\n\ngreet(\"World\")\ngreet(\"CodeMedic\")\n",
+      "summary": "The code defines a function that greets a person by name and calls it twice with different names.",
+      "error_titles": [],
+      "error_types": [],
+      "error_count": 0,
+      "code_smell_count": 1,
+      "created_at": "2026-05-25T06:37:01.471Z"
+    },
+    {
+      "id": 56,
+      "user_id": 8,
+      "language": "python",
+      "main_file": "main.py",
+      "code_snippet": "num = input(\"Enter a number: \")\n\nfor i in range(1, 6)\n    if num % i == 0:\n        print(i + \" divides the number\")\n\ntotal = 0\nfor j in range(5):\n    total = total + j\n\nprint(\"Average is:\", total / 0)",
+      "summary": "The code tries to find divisors of a number and calculate an average, but has several problems.",
+      "error_titles": [
+        "Missing colon after loop",
+        "Using string in mathematical operation",
+        "Wrong variable used in condition",
+        "Division by zero"
+      ],
+      "error_types": [
+        "syntax",
+        "runtime",
+        "logical",
+        "runtime"
+      ],
+      "error_count": 4,
+      "code_smell_count": 1,
+      "created_at": "2026-05-25T13:57:15.045Z"
+    },
+    {
+      "id": 57,
+      "user_id": 9,
+      "language": "python",
+      "main_file": "main.py",
+      "code_snippet": "# Welcome to CodeMedic AI!\n# Paste your code here and click \"Debug Code\"\n\ndef greet(name):\n    print(\"Hello, \" + name)\n\ngreet(\"World\")\ngreet(\"CodeMedic\")\n",
+      "summary": "The code defines a function that greets a person by name and calls it twice with different names.",
+      "error_titles": [],
+      "error_types": [],
+      "error_count": 0,
+      "code_smell_count": 1,
+      "created_at": "2026-05-25T14:46:46.637Z"
+    },
+    {
+      "id": 58,
+      "user_id": 8,
+      "language": "python",
+      "main_file": "solution.py",
+      "code_snippet": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        ",
+      "summary": "The code is meant to find two numbers in a list that add up to a target value and return their indices.",
+      "error_titles": [
+        "Missing colon after function definition",
+        "Function body is missing"
+      ],
+      "error_types": [
+        "syntax",
+        "logical"
+      ],
+      "error_count": 2,
+      "code_smell_count": 0,
+      "created_at": "2026-05-25T15:34:02.190Z"
+    },
+    {
+      "id": 59,
+      "user_id": 5,
+      "language": "python",
+      "main_file": "main.py",
+      "code_snippet": "num = input(\"Enter a number: \")\n\nfor i in range(1, 6)\n    if num % i == 0:\n        print(i + \" divides the number\")\n\ntotal = 0\nwhile total < 10:\ntotal += i\n\nprint(\"Final total: \" + total)",
+      "summary": "The code attempts to find divisors of a user-input number and calculate a running total.",
+      "error_titles": [
+        "Missing colon in for loop",
+        "Using string in modulo operation",
+        "String concatenation with integer",
+        "Variable 'i' not updated in loop",
+        "String concatenation with integer in print"
+      ],
+      "error_types": [
+        "syntax",
+        "logical",
+        "runtime",
+        "logical",
+        "runtime"
+      ],
+      "error_count": 5,
+      "code_smell_count": 2,
+      "created_at": "2026-05-25T20:49:19.902Z"
+    },
+    {
+      "id": 60,
+      "user_id": 5,
+      "language": "python",
+      "main_file": "main.py",
+      "code_snippet": "name = input(\"Enter your name: \")\nage = int(input(\"Enter your age: \"))\n\nnumbers = [1, 2, 3, 4, 5]\n\nfor i in range(6):\n    print(numbers[i])\n\nif age > \"18\":\n    print(\"Adult\")\nelse\n    print(\"Minor\")\n\ntotal = 0\n\nfor n in numbers\n    total = total + n\n\nprint(\"Total is: \" + total)\n\nfile = open(\"data.txt\", \"r\")\nprint(file.read()\nfile.close()",
+      "summary": "The code collects user name and age, prints array elements, checks age eligibility, calculates a total, and reads from a file.",
+      "error_titles": [
+        "Missing colon after else statement",
+        "Array index out of bounds",
+        "String vs integer comparison",
+        "Missing colon after for loop",
+        "Type mismatch in string concatenation",
+        "Missing closing parenthesis"
+      ],
+      "error_types": [
+        "syntax",
+        "logical",
+        "logical",
+        "syntax",
+        "runtime",
+        "syntax"
+      ],
+      "error_count": 6,
+      "code_smell_count": 2,
+      "created_at": "2026-05-25T21:26:48.719Z"
+    },
+    {
+      "id": 61,
+      "user_id": 14,
+      "language": "python",
+      "main_file": "main.py",
+      "code_snippet": "name = input(\"Enter your name: \")\nage = int(input(\"Enter your age: \"))\n\nnumbers = [1, 2, 3, 4, 5]\n\nfor i in range(6):\n    print(numbers[i])\n\nif age > \"18\":\n    print(\"Adult\")\nelse\n    print(\"Minor\")\n\ntotal = 0\n\nfor n in numbers\n    total = total + n\n\nprint(\"Total is: \" + total)\n\nfile = open(\"data.txt\", \"r\")\nprint(file.read()\nfile.close()",
+      "summary": "The code asks for a user's name and age, then tries to print numbers, check if the user is an adult, calculate a total, and read from a file.",
+      "error_titles": [
+        "Missing Colon After 'else'",
+        "Index Out of Range Error",
+        "Comparing String to Integer",
+        "Missing Colon After Loop",
+        "Type Mismatch in Print Statement",
+        "Missing Closing Parenthesis"
+      ],
+      "error_types": [
+        "syntax",
+        "runtime",
+        "logical",
+        "syntax",
+        "runtime",
+        "syntax"
+      ],
+      "error_count": 6,
+      "code_smell_count": 2,
+      "created_at": "2026-05-25T21:48:04.821Z"
+    },
+    {
+      "id": 62,
+      "user_id": 14,
+      "language": "python",
+      "main_file": "main.py",
+      "code_snippet": "name = input(\"Enter your name: \")\nage = int(input(\"Enter your age: \"))\n\nnumbers = [1, 2, 3, 4, 5]\n\nfor i in range(6):\n    print(numbers[i])\n\nif age > \"18\":\n    print(\"Adult\")\nelse\n    print(\"Minor\")\n\ntotal = 0\n\nfor n in numbers\n    total = total + n\n\nprint(\"Total is: \" + total)\n\nfile = open(\"data.txt\", \"r\")\nprint(file.read()\nfile.close()",
+      "summary": "The code asks for a user's name and age, then tries to print a list of numbers, check if the user is an adult, calculate their sum, and read from a file.",
+      "error_titles": [
+        "Missing colon after 'else'",
+        "Index out of range error",
+        "Comparing string to integer",
+        "Missing colon after 'for'",
+        "Trying to concatenate string and integer",
+        "Missing closing parenthesis"
+      ],
+      "error_types": [
+        "syntax",
+        "runtime",
+        "logical",
+        "syntax",
+        "runtime",
+        "syntax"
+      ],
+      "error_count": 6,
+      "code_smell_count": 2,
+      "created_at": "2026-05-25T22:03:42.822Z"
+    },
+    {
+      "id": 63,
+      "user_id": 14,
+      "language": "python",
+      "main_file": "main.py",
+      "code_snippet": "name = input(\"Enter your name: \")\nage = int(input(\"Enter your age: \"))\n\nnumbers = [1, 2, 3, 4, 5]\n\nfor i in range(6):\n    print(numbers[i])\n\nif age > \"18\":\n    print(\"Adult\")\nelse\n    print(\"Minor\")\n\ntotal = 0\n\nfor n in numbers\n    total = total + n\n\nprint(\"Total is: \" + total)\n\nfile = open(\"data.txt\", \"r\")\nprint(file.read()\nfile.close()",
+      "summary": "The code asks for a user's name and age, then tries to print a list of numbers, check if the user is an adult, calculate their sum, and read from a file.",
+      "error_titles": [
+        "Missing colon after 'else'",
+        "Index out of range error",
+        "Comparing string to integer",
+        "Missing colon after 'for'",
+        "Cannot concatenate string and integer",
+        "Missing closing parenthesis"
+      ],
+      "error_types": [
+        "syntax",
+        "runtime",
+        "logical",
+        "syntax",
+        "runtime",
+        "syntax"
+      ],
+      "error_count": 6,
+      "code_smell_count": 2,
+      "created_at": "2026-05-25T22:04:32.361Z"
+    },
+    {
+      "id": 64,
+      "user_id": 5,
+      "language": "python",
+      "main_file": "main.py",
+      "code_snippet": "name = input(\"Enter your name: \")\nage = int(input(\"Enter your age: \"))\n\nnumbers = [1, 2, 3, 4, 5]\n\nfor i in range(6):\n    print(numbers[i])\n\nif age > \"18\":\n    print(\"Adult\")\nelse\n    print(\"Minor\")\n\ntotal = 0\n\nfor n in numbers\n    total = total + n\n\nprint(\"Total is: \" + total)\n\nfile = open(\"data.txt\", \"r\")\nprint(file.read()\nfile.close()",
+      "summary": "The code collects user name and age, prints array elements, checks age eligibility, calculates sum of array, and reads from a file.",
+      "error_titles": [
+        "Array Index Out of Bounds",
+        "String vs Integer Comparison",
+        "Missing Colon",
+        "Missing Colon in Loop",
+        "String Concatenation Error",
+        "Missing Parenthesis"
+      ],
+      "error_types": [
+        "syntax",
+        "logical",
+        "syntax",
+        "syntax",
+        "runtime",
+        "syntax"
+      ],
+      "error_count": 6,
+      "code_smell_count": 2,
+      "created_at": "2026-05-25T22:19:51.006Z"
+    },
+    {
+      "id": 65,
+      "user_id": 5,
+      "language": "java",
+      "main_file": "solution.java",
+      "code_snippet": "public class Main {\n    \n    static class Solution {\n        public String convert(String s, int numRows) {\n            if (s == null || s.length() <= numRows || numRows == 1) {\n                return s;\n            }\n\n            StringBuilder[] rows = new StringBuilder[numRows];\n            for (int i = 0; i < numRows; i++) {\n                rows[i] = new StringBuilder();\n            }\n\n            int currentRow = 0;\n            int step = 1;\n\n            for (char c : s.toCharArray()) {\n    ",
+      "summary": "The code converts a string into a zigzag pattern across a specified number of rows and reads it line by line.",
+      "error_titles": [
+        "Potential Array Index Out of Bounds",
+        "Integer Division Problem Risk"
+      ],
+      "error_types": [
+        "logical",
+        "logical"
+      ],
+      "error_count": 2,
+      "code_smell_count": 2,
+      "created_at": "2026-05-26T02:16:47.030Z"
+    },
+    {
+      "id": 66,
+      "user_id": 8,
+      "language": "python",
+      "main_file": "solution.py",
+      "code_snippet": "class Solution:\n    def lengthOfLongestSubstring(self, s: str) -> int:\n        if not s:\n            return 0\n        \n        char_index = {}\n        max_length = 0\n        start = 0\n        \n        for end in range(len(s)):\n            if s[end] in char_index and char_index[s[end]] >= start:\n                start = char_index[s[end]] + 1\n            \n            char_index[s[end]] = end\n            max_length = max(max_length, end - start + 1)\n        \n        return max_length\n\n\n# Main Funct",
+      "summary": "The code finds the length of the longest substring without repeating characters in a given string.",
+      "error_titles": [
+        "Input not validated for empty string"
+      ],
+      "error_types": [
+        "runtime"
+      ],
+      "error_count": 1,
+      "code_smell_count": 2,
+      "created_at": "2026-05-26T02:39:32.935Z"
+    },
+    {
+      "id": 67,
+      "user_id": 5,
+      "language": "python",
+      "main_file": "main.py",
+      "code_snippet": "# Welcome to CodeMedic AI!\n# Paste your code here and click \"Debug Code\"\n\ndef greet(name):\n    print(\"Hello, \" + name)\n\ngreet(\"World\")\ngreet(\"CodeMedic\n",
+      "summary": "The code defines a simple greeting function and calls it twice with different names.",
+      "error_titles": [
+        "Unterminated String Literal"
+      ],
+      "error_types": [
+        "syntax"
+      ],
+      "error_count": 1,
+      "code_smell_count": 0,
+      "created_at": "2026-05-26T03:44:28.430Z"
+    },
+    {
+      "id": 68,
+      "user_id": 5,
+      "language": "java",
+      "main_file": "Main.java",
+      "code_snippet": "public class Main {\n    public static void main(String[] args) {\n        int[] nums = {1, 2, 3, 4, 5};\n\n        int sum = 0;\n        for(int i = 0; i <= nums.length; i++) {\n            sum += nums[i];\n        }\n\n        System.out.println(\"Average: \" + sum / nums.length);\n    }\n}",
+      "summary": "The code attempts to calculate the average of an array of integers.",
+      "error_titles": [
+        "Array Index Out of Bounds",
+        "Integer Division Problem"
+      ],
+      "error_types": [
+        "logical",
+        "logical"
+      ],
+      "error_count": 2,
+      "code_smell_count": 1,
+      "created_at": "2026-05-26T19:18:22.187Z"
+    },
+    {
+      "id": 69,
+      "user_id": 15,
+      "language": "python",
+      "main_file": "main.py",
+      "code_snippet": "numbers = [5, 10, 15, 20]\n\nsum = 0\n\nfor i in range(len(numbers) + 1):\n    sum += numbers[i]\n\naverage = sum / 0\n\nprint(\"Average: \" + average)",
+      "summary": "The code tries to calculate the average of a list of numbers but has several problems.",
+      "error_titles": [
+        "Index out of bounds error",
+        "Division by zero",
+        "Type mismatch when printing"
+      ],
+      "error_types": [
+        "runtime",
+        "logical",
+        "runtime"
+      ],
+      "error_count": 3,
+      "code_smell_count": 1,
+      "created_at": "2026-05-26T19:44:05.685Z"
+    },
+    {
+      "id": 70,
+      "user_id": 15,
+      "language": "java",
+      "main_file": "main.java",
+      "code_snippet": "public class Main {\n    public static void main(String[] args) {\n\n        int[] numbers = {5, 10, 15, 20};\n\n        int sum = 0;\n\n        for(int i = 0; i <= numbers.length; i++) {\n            sum += numbers[i];\n        }\n\n        int average = sum / 0;\n\n        System.out.println(\"Average: \" + average);\n    }\n}",
+      "summary": "The code tries to calculate the average of an array of numbers, but has several problems that will cause errors.",
+      "error_titles": [
+        "Index out of bounds error",
+        "Division by zero error",
+        "Type mismatch when printing"
+      ],
+      "error_types": [
+        "runtime",
+        "logical",
+        "runtime"
+      ],
+      "error_count": 3,
+      "code_smell_count": 1,
+      "created_at": "2026-05-26T19:44:49.126Z"
+    },
+    {
+      "id": 71,
+      "user_id": 15,
+      "language": "cpp",
+      "main_file": "main.cpp",
+      "code_snippet": "#include <iostream>\nusing namespace std;\n\nint main() {\n\n    int numbers[4] = {5, 10, 15, 20};\n\n    int sum = 0;\n\n    for(int i = 0; i <= 4; i++) {\n        sum += numbers[i];\n    }\n\n    int average = sum / 0;\n\n    cout << \"Average: \" << average << endl;\n}",
+      "summary": "The program tries to calculate the average of an array of numbers.",
+      "error_titles": [
+        "Division by zero",
+        "Index out of bounds error"
+      ],
+      "error_types": [
+        "logical",
+        "runtime"
+      ],
+      "error_count": 2,
+      "code_smell_count": 1,
+      "created_at": "2026-05-26T19:45:53.469Z"
+    },
+    {
+      "id": 72,
+      "user_id": 15,
+      "language": "python",
+      "main_file": "solution.py",
+      "code_snippet": "class Solution:\n    def reverse(self, x: int) -> int:\n        sign = -1 if x < 0 else 1\n        x = abs(x)\n\n        rev = 0\n\n        while x != 0:\n            digit = x % 10\n            rev = rev * 10 + digit\n            x //= 10\n\n        rev *= sign\n\n        # Check 32-bit integer range\n        if rev < -2**31 or rev > 2**31 - 1:\n            return 0\n\n        return rev\n\n\ndef main():\n    x = int(input(\"Enter an integer: \"))\n\n    sol = Solution()\n    result = sol.reverse(x)\n\n    print(\"Reversed ",
+      "summary": "The code reverses an integer and handles overflow by returning 0 if the result is outside the 32-bit signed integer range.",
+      "error_titles": [
+        "Duplicate code block",
+        "Potential index out of bounds error"
+      ],
+      "error_types": [
+        "syntax",
+        "runtime"
+      ],
+      "error_count": 2,
+      "code_smell_count": 2,
+      "created_at": "2026-05-27T04:56:47.392Z"
+    }
+  ],
+  "follows": [
+    {
+      "id": 1,
+      "follower_id": 9,
+      "following_id": 8,
+      "created_at": "2026-05-25T14:02:06.174Z"
+    },
+    {
+      "id": 2,
+      "follower_id": 13,
+      "following_id": 8,
+      "created_at": "2026-05-25T18:44:33.847Z"
+    },
+    {
+      "id": 3,
+      "follower_id": 5,
+      "following_id": 8,
+      "created_at": "2026-05-25T20:51:21.927Z"
+    },
+    {
+      "id": 4,
+      "follower_id": 8,
+      "following_id": 15,
+      "created_at": "2026-05-27T04:49:19.608Z"
+    },
+    {
+      "id": 5,
+      "follower_id": 15,
+      "following_id": 8,
+      "created_at": "2026-05-27T04:50:14.325Z"
+    }
+  ]
+}

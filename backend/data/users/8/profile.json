@@ -1,0 +1,72 @@
+{
+  "xp": 150,
+  "level": 2,
+  "totalSessions": 3,
+  "totalErrors": 7,
+  "totalFixes": 8,
+  "currentStreak": 4,
+  "longestStreak": 4,
+  "lastActiveDate": "2026-05-28",
+  "skills": {
+    "syntax": {
+      "score": 44,
+      "sessions": 2
+    },
+    "logic": {
+      "score": 44,
+      "sessions": 2
+    },
+    "runtime": {
+      "score": 41,
+      "sessions": 3
+    },
+    "errorHandling": {
+      "score": 50,
+      "sessions": 0
+    },
+    "dataStructures": {
+      "score": 50,
+      "sessions": 0
+    },
+    "async": {
+      "score": 50,
+      "sessions": 0
+    }
+  },
+  "languageStats": {
+    "python": {
+      "sessions": 3,
+      "errors": 7
+    }
+  },
+  "mistakeFrequency": {
+    "syntax:missing colon after loop": 1,
+    "runtime:using string in mathematical operation": 1,
+    "logical:wrong variable used in condition": 1,
+    "runtime:division by zero": 1,
+    "syntax:missing colon after function definition": 1,
+    "logical:function body is missing": 1,
+    "runtime:input not validated for empty string": 1
+  },
+  "conceptWeaknesses": [],
+  "achievements": [
+    {
+      "id": "first_debug",
+      "name": "First Steps",
+      "desc": "Complete your first debug session",
+      "unlockedAt": "2026-05-25T13:57:15.053Z"
+    },
+    {
+      "id": "clean_code",
+      "name": "Clean Coder",
+      "desc": "Submit code with zero errors",
+      "unlockedAt": "2026-05-25T15:34:02.197Z"
+    }
+  ],
+  "coins": 10,
+  "activityMap": {
+    "2026-05-25": 2,
+    "2026-05-26": 1
+  },
+  "lastClaimDate": "2026-05-25"
+}

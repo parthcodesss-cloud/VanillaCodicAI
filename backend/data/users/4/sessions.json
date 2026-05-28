@@ -1,0 +1,600 @@
+[
+  {
+    "id": "mpgnt36xqa9i",
+    "timestamp": "2026-05-22T08:30:15.657Z",
+    "language": "python",
+    "mainFile": "main.py",
+    "codeSnippet": "# Welcome to CodeMedic AI!\n# Paste your code here and click \"Debug Code\"\n\ndef greet(name):\n    print(\"Hello, \" + name)\n\ngreet(\"World\")\ngreet(\"CodeMedic\")\n",
+    "summary": "The code defines a greeting function that prints a message to the screen.",
+    "errorTitles": [],
+    "errorTypes": [],
+    "errorCount": 0,
+    "codeSmellCount": 1
+  },
+  {
+    "id": "mpgntqnf3kzt",
+    "timestamp": "2026-05-22T08:30:46.059Z",
+    "language": "python",
+    "mainFile": "main.py",
+    "codeSnippet": "# Welcome to CodeMedic AI!\n# Paste your code here and click \"Debug Code\"\n\ndef greet(name):\n    print(\"Hello, \" + name)\n\ngreet(\"World\")\ngreet(\"CodeMedic\")\n",
+    "summary": "The code defines a function to greet people by name and calls it twice.",
+    "errorTitles": [],
+    "errorTypes": [],
+    "errorCount": 0,
+    "codeSmellCount": 1
+  },
+  {
+    "id": "mpgo1nu0s5hx",
+    "timestamp": "2026-05-22T08:36:55.656Z",
+    "language": "java",
+    "mainFile": "Main.java",
+    "codeSnippet": "import java.io.*;\nimport java.util.*;\n\nclass Student implements Serializable {\n    private int id;\n    private String name;\n    private int age;\n    private double marks;\n\n    public Student(int id, String name, int age, double marks) {\n        this.id = id;\n        this.name = name;\n        this.age = age;\n        this.marks = marks;\n    }\n\n    public int getId() {\n        return id;\n    }\n\n    public String getName() {\n        return name;\n    }\n\n    public void updateMarks(double marks) {\n   ",
+    "summary": "This program manages a list of students by allowing users to add, remove, search, display, save, and load student data using a menu-driven interface.",
+    "errorTitles": [
+      "Potential NullPointerException when loading data",
+      "Inefficient search method"
+    ],
+    "errorTypes": [
+      "runtime",
+      "logic"
+    ],
+    "errorCount": 2,
+    "codeSmellCount": 2
+  },
+  {
+    "id": "mpgpt2jomvp5",
+    "timestamp": "2026-05-22T09:26:14.052Z",
+    "language": "python",
+    "mainFile": "main.py",
+    "codeSnippet": "import random\n\nclass BankAccount:\n\n    def __init__(self, owner, balance):\n        self.owner = owner\n        self.balance = balance\n\n    def deposit(self, amount):\n        self.balance = self.balance + amount\n        print(\"Deposited:\", amount)\n\n    def withdraw(self, amount):\n\n        if amount > self.balance:\n            print(\"Not enough money\")\n\n        self.balance -= amount\n\n    def display(self):\n        print(self.owner, \"Balance:\", self.balnce)\n\n\ndef transfer(sender, receiver, amount):",
+    "summary": "The code simulates bank account operations like deposits, withdrawals, and transfers between accounts.",
+    "errorTitles": [
+      "Potential NullPointerException when loading data",
+      "Typo in variable name",
+      "Incorrect withdrawal amount type",
+      "Index out of bounds error",
+      "Incorrect total calculation"
+    ],
+    "errorTypes": [
+      "runtime",
+      "syntax",
+      "logic",
+      "runtime",
+      "logic"
+    ],
+    "errorCount": 5,
+    "codeSmellCount": 2
+  },
+  {
+    "id": "mpgpv85lytyd",
+    "timestamp": "2026-05-22T09:27:54.633Z",
+    "language": "javascript",
+    "mainFile": "main.js",
+    "codeSnippet": "function createUser(name, age) {\n    return {\n        name: name,\n        age: age,\n        loginCount: 0\n    };\n}\n\nfunction login(user) {\n    user.loginCount++;\n\n    if (user.loginCount = 5) {\n        console.log(\"Frequent user\");\n    }\n}\n\nfunction calculateAverage(scores) {\n    let total = 0;\n\n    for (let i = 0; i <= scores.length; i++) {\n        total += scores[i];\n    }\n\n    return total / scores.length;\n}\n\nfunction findUser(users, name) {\n\n    for (let i = 0; i < users.length; i++) {\n\n    ",
+    "summary": "The code tries to create users, track logins, calculate averages, and find users, but contains several bugs that will cause errors or unexpected behavior.",
+    "errorTitles": [
+      "Assignment instead of comparison",
+      "Returning wrong variable",
+      "Accessing non-existent user",
+      "Using undefined variable",
+      "Loop runs forever"
+    ],
+    "errorTypes": [
+      "syntax",
+      "logic",
+      "runtime",
+      "runtime",
+      "logic"
+    ],
+    "errorCount": 5,
+    "codeSmellCount": 2
+  },
+  {
+    "id": "mpgpz1h3qh17",
+    "timestamp": "2026-05-22T09:30:52.599Z",
+    "language": "java",
+    "mainFile": "Main.java",
+    "codeSnippet": "import java.util.ArrayList;\n\npublic class BugPractice {\n\n    static int divide(int a, int b) {\n        return a / b;\n    }\n\n    static int findLargest(int[] arr) {\n\n        int largest = arr[0];\n\n        for (int i = 0; i <= arr.length; i++) {\n\n            if (arr[i] > largest) {\n                largest = arr[i];\n            }\n        }\n\n        return largest;\n    }\n\n    public static void main(String[] args) {\n\n        ArrayList<String> names =\n                new ArrayList<>();\n\n        names",
+    "summary": "The code attempts to perform division, find the largest number in an array, and print list elements, but contains several runtime and logic errors.",
+    "errorTitles": [
+      "Array Index Out of Bounds",
+      "Division by Zero",
+      "Null Pointer Exception",
+      "Null Pointer Exception",
+      "Inefficient Search Method"
+    ],
+    "errorTypes": [
+      "runtime",
+      "runtime",
+      "runtime",
+      "runtime",
+      "logical"
+    ],
+    "errorCount": 5,
+    "codeSmellCount": 2
+  },
+  {
+    "id": "mpgq0md8xett",
+    "timestamp": "2026-05-22T09:32:06.332Z",
+    "language": "cpp",
+    "mainFile": "main.cpp",
+    "codeSnippet": "#include <iostream>\n#include <vector>\n#include <string>\n\nusing namespace std;\n\nint divide(int a, int b) {\n    return a / b;\n}\n\nint findMax(vector<int> nums) {\n\n    int maxVal = nums[0];\n\n    for (int i = 0; i <= nums.size(); i++) {\n\n        if (nums[i] > maxVal) {\n            maxVal = nums[i];\n        }\n    }\n\n    return maxVal;\n}\n\nint main() {\n\n    vector<string> names;\n\n    names.push_back(\"Alex\");\n    names.push_back(\"Sam\");\n\n    cout << names[5] << endl;\n\n    int result =\n        divide(20, ",
+    "summary": "The program attempts to perform various operations including division, finding maximum value, and string conversion, but contains several runtime and logic errors.",
+    "errorTitles": [
+      "Array Index Out of Bounds",
+      "Null Pointer Dereference",
+      "Division by Zero",
+      "Accessing Invalid Vector Index",
+      "Invalid String to Integer Conversion",
+      "Infinite Loop Due to Incorrect Increment"
+    ],
+    "errorTypes": [
+      "runtime",
+      "runtime",
+      "runtime",
+      "runtime",
+      "runtime",
+      "logical"
+    ],
+    "errorCount": 6,
+    "codeSmellCount": 2
+  },
+  {
+    "id": "mpgq3fo3sqx8",
+    "timestamp": "2026-05-22T09:34:17.620Z",
+    "language": "java",
+    "mainFile": "Main.java",
+    "codeSnippet": "import java.util.ArrayList;\n\npublic class BugPractice {\n\n    static int divide(int a, int b) {\n        return a / b;\n    }\n\n    static int findLargest(int[] arr) {\n\n        int largest = arr[0];\n\n        for (int i = 0; i <= arr.length; i++) {\n\n            if (arr[i] > largest) {\n                largest = arr[i];\n            }\n        }\n\n        return largest;\n    }\n\n    public static void main(String[] args) {\n\n        ArrayList<String> names =\n                new ArrayList<>();\n\n        names",
+    "summary": "The code attempts to perform division, find the largest number in an array, and print list elements, but contains several runtime errors and logic flaws.",
+    "errorTitles": [
+      "Array Index Out of Bounds",
+      "Division by Zero",
+      "Null Pointer Exception",
+      "Invalid Addition with Null",
+      "Potential Null Pointer Exception"
+    ],
+    "errorTypes": [
+      "runtime",
+      "runtime",
+      "runtime",
+      "logical",
+      "runtime"
+    ],
+    "errorCount": 5,
+    "codeSmellCount": 2
+  },
+  {
+    "id": "mpgqmpzy7k1y",
+    "timestamp": "2026-05-22T09:49:17.470Z",
+    "language": "java",
+    "mainFile": "Main.java",
+    "codeSnippet": "import java.util.ArrayList;\n\npublic class BugPractice {\n\n    static int divide(int a, int b) {\n        return a / b;\n    }\n\n    static int findLargest(int[] arr) {\n\n        int largest = arr[0];\n\n        for (int i = 0; i <= arr.length; i++) {\n\n            if (arr[i] > largest) {\n                largest = arr[i];\n            }\n        }\n\n        return largest;\n    }\n\n    public static void main(String[] args) {\n\n        ArrayList<String> names =\n                new ArrayList<>();\n\n        names",
+    "summary": "The code attempts to perform division, find the largest number in an array, and print elements from a list, but contains several runtime errors and logical flaws.",
+    "errorTitles": [
+      "Array Index Out of Bounds",
+      "Division by Zero",
+      "Null Pointer Exception",
+      "Null Pointer Exception",
+      "Invalid Addition with Null"
+    ],
+    "errorTypes": [
+      "runtime",
+      "runtime",
+      "runtime",
+      "runtime",
+      "logical"
+    ],
+    "errorCount": 5,
+    "codeSmellCount": 2
+  },
+  {
+    "id": "mpgqon7q1mdm",
+    "timestamp": "2026-05-22T09:50:47.174Z",
+    "language": "java",
+    "mainFile": "Main.java",
+    "codeSnippet": "import java.util.ArrayList;\n\npublic class BugPractice {\n\n    static int divide(int a, int b) {\n        return a / b;\n    }\n\n    static int findLargest(int[] arr) {\n\n        int largest = arr[0];\n\n        for (int i = 0; i <= arr.length; i++) {\n\n            if (arr[i] > largest) {\n                largest = arr[i];\n            }\n        }\n\n        return largest;\n    }\n\n    public static void main(String[] args) {\n\n        ArrayList<String> names =\n                new ArrayList<>();\n\n        names",
+    "summary": "The code attempts to perform division, find the largest number in an array, and print list elements, but contains several runtime errors and logic flaws.",
+    "errorTitles": [
+      "Array Index Out of Bounds",
+      "Division by Zero",
+      "Null Pointer Exception",
+      "Null Pointer Exception",
+      "Invalid Addition with Null"
+    ],
+    "errorTypes": [
+      "runtime",
+      "runtime",
+      "runtime",
+      "runtime",
+      "logical"
+    ],
+    "errorCount": 5,
+    "codeSmellCount": 1
+  },
+  {
+    "id": "mpgqtg3uqef6",
+    "timestamp": "2026-05-22T09:54:31.242Z",
+    "language": "python",
+    "mainFile": "main.py",
+    "codeSnippet": "import java.util.ArrayList;\n\npublic class BugPractice {\n\n    static int divide(int a, int b) {\n        return a / b;\n    }\n\n    static int findLargest(int[] arr) {\n\n        int largest = arr[0];\n\n        for (int i = 0; i <= arr.length; i++) {\n\n            if (arr[i] > largest) {\n                largest = arr[i];\n            }\n        }\n\n        return largest;\n    }\n\n    public static void main(String[] args) {\n\n        ArrayList<String> names =\n                new ArrayList<>();\n\n        names",
+    "summary": "The code attempts to perform division, find the largest number in an array, and print list elements, but contains several runtime and logic errors.",
+    "errorTitles": [
+      "Array Index Out of Bounds",
+      "Division by Zero",
+      "Null Pointer Exception",
+      "Invalid Addition with Null",
+      "Null Pointer Exception"
+    ],
+    "errorTypes": [
+      "runtime",
+      "runtime",
+      "runtime",
+      "logical",
+      "runtime"
+    ],
+    "errorCount": 5,
+    "codeSmellCount": 1
+  },
+  {
+    "id": "mpgr5no1d8i9",
+    "timestamp": "2026-05-22T10:04:00.913Z",
+    "language": "java",
+    "mainFile": "Main.java",
+    "codeSnippet": "import java.util.ArrayList;\n\npublic class BugPractice {\n\n    static int divide(int a, int b) {\n        return a / b;\n    }\n\n    static int findLargest(int[] arr) {\n\n        int largest = arr[0];\n\n        for (int i = 0; i <= arr.length; i++) {\n\n            if (arr[i] > largest) {\n                largest = arr[i];\n            }\n        }\n\n        return largest;\n    }\n\n    public static void main(String[] args) {\n\n        ArrayList<String> names =\n                new ArrayList<>();\n\n        names",
+    "summary": "The code attempts to perform division, find the largest number in an array, and access list elements, but contains several runtime errors and logic flaws.",
+    "errorTitles": [
+      "Array Index Out of Bounds",
+      "Division by Zero",
+      "Null Pointer Exception",
+      "Invalid Addition with Null",
+      "Null Pointer Exception"
+    ],
+    "errorTypes": [
+      "runtime",
+      "runtime",
+      "runtime",
+      "logical",
+      "runtime"
+    ],
+    "errorCount": 5,
+    "codeSmellCount": 1
+  },
+  {
+    "id": "mpgr8gvw581d",
+    "timestamp": "2026-05-22T10:06:12.092Z",
+    "language": "java",
+    "mainFile": "Main.java",
+    "codeSnippet": "import java.util.Scanner;\nimport java.util.ArrayList;\n\npublic class DebugPractice {\n\n    static Scanner sc = new Scanner(System.in);\n\n    static int calculateAverage(ArrayList<Integer> marks) {\n\n        int sum = 0;\n\n        for (int i = 0; i <= marks.size(); i++) {\n            sum += marks.get(i);\n        }\n\n        return sum / marks.size();\n    }\n\n    static int findStudent(ArrayList<String> students,\n                           String name) {\n\n        for (int i = 0; i < students.size(); i++)",
+    "summary": "The program collects student names and marks, searches for a student, calculates the average mark, and prints the student at a specific index and the result of a division.",
+    "errorTitles": [
+      "Array Index Out of Bounds",
+      "Null Pointer Exception Risk",
+      "Array Index Out of Bounds",
+      "Division by Zero"
+    ],
+    "errorTypes": [
+      "runtime",
+      "runtime",
+      "runtime",
+      "runtime"
+    ],
+    "errorCount": 4,
+    "codeSmellCount": 2
+  },
+  {
+    "id": "mpgrdvypgve4",
+    "timestamp": "2026-05-22T10:10:24.913Z",
+    "language": "python",
+    "mainFile": "main.py",
+    "codeSnippet": "import java.util.Scanner;\nimport java.util.ArrayList;\n\npublic class DebugPractice {\n\n    static Scanner sc = new Scanner(System.in);\n\n    static int calculateAverage(ArrayList<Integer> marks) {\n\n        int sum = 0;\n\n        for (int i = 0; i <= marks.size(); i++) {\n            sum += marks.get(i);\n        }\n\n        return sum / marks.size();\n    }\n\n    static int findStudent(ArrayList<String> students,\n                           String name) {\n\n        for (int i = 0; i < students.size(); i++)",
+    "summary": "The code attempts to collect student names and marks, search for a student, calculate the average mark, and print results.",
+    "errorTitles": [
+      "Incorrect Language Used",
+      "Array Index Out of Bounds",
+      "String Comparison Using '=='",
+      "Division by Zero",
+      "Null Pointer Exception Risk"
+    ],
+    "errorTypes": [
+      "syntax",
+      "runtime",
+      "logical",
+      "runtime",
+      "runtime"
+    ],
+    "errorCount": 5,
+    "codeSmellCount": 2
+  },
+  {
+    "id": "mpgrj92jh145",
+    "timestamp": "2026-05-22T10:14:35.179Z",
+    "language": "java",
+    "mainFile": "Main.java",
+    "codeSnippet": "import java.util.Scanner;\nimport java.util.ArrayList;\n\npublic class DebugPractice {\n\n    static Scanner sc = new Scanner(System.in);\n\n    static int calculateAverage(ArrayList<Integer> marks) {\n\n        int sum = 0;\n\n        for (int i = 0; i <= marks.size(); i++) {\n            sum += marks.get(i);\n        }\n\n        return sum / marks.size();\n    }\n\n    static int findStudent(ArrayList<String> students,\n                           String name) {\n\n        for (int i = 0; i < students.size(); i++)",
+    "summary": "The program collects student names and marks, searches for a student, calculates the average mark, and prints the student at a specific index and performs division.",
+    "errorTitles": [
+      "Array Index Out of Bounds",
+      "Null Pointer Exception Risk",
+      "Division by Zero",
+      "Array Index Out of Bounds"
+    ],
+    "errorTypes": [
+      "runtime",
+      "runtime",
+      "runtime",
+      "runtime"
+    ],
+    "errorCount": 4,
+    "codeSmellCount": 2
+  },
+  {
+    "id": "mpgrweqe7dv0",
+    "timestamp": "2026-05-22T10:24:49.046Z",
+    "language": "java",
+    "mainFile": "Main.java",
+    "codeSnippet": "import java.util.*;\nimport java.io.*;\n\nclass Product {\n\n    int id;\n    String name;\n    int quantity;\n    double price;\n\n    Product(int id, String name,\n            int quantity,\n            double price) {\n\n        this.id = id;\n        this.name = name;\n        this.quantity = quantity;\n        this.price = price;\n    }\n\n    double inventoryValue() {\n        return quantity * price;\n    }\n\n    public String toString() {\n\n        return id + \" \" +\n               name + \" \" +\n               qu",
+    "summary": "The code implements a basic inventory management system with product tracking, user authentication, and data persistence.",
+    "errorTitles": [
+      "Division by Zero",
+      "Array Index Out of Bounds",
+      "Array Index Out of Bounds",
+      "Null Pointer Exception Risk",
+      "Potential Null Pointer Exception",
+      "Incorrect Loop Condition in Remove Method"
+    ],
+    "errorTypes": [
+      "runtime",
+      "runtime",
+      "runtime",
+      "runtime",
+      "runtime",
+      "logical"
+    ],
+    "errorCount": 6,
+    "codeSmellCount": 3
+  },
+  {
+    "id": "mpgs0xry8wpy",
+    "timestamp": "2026-05-22T10:28:20.350Z",
+    "language": "java",
+    "mainFile": "Main.java",
+    "codeSnippet": "import java.util.*;\nimport java.io.*;\n\nclass Product {\n\n    int id;\n    String name;\n    int quantity;\n    double price;\n\n    Product(int id, String name,\n            int quantity,\n            double price) {\n\n        this.id = id;\n        this.name = name;\n        this.quantity = quantity;\n        this.price = price;\n    }\n\n    double inventoryValue() {\n        return quantity * price;\n    }\n\n    public String toString() {\n\n        return id + \" \" +\n               name + \" \" +\n               qu",
+    "summary": "This program implements a basic inventory management system with user authentication, allowing users to add, remove, search, display products, and calculate average and maximum prices.",
+    "errorTitles": [
+      "Division by Zero Error",
+      "Array Index Out of Bounds",
+      "Array Index Out of Bounds",
+      "Potential Null Pointer Exception",
+      "Null Pointer Exception Risk"
+    ],
+    "errorTypes": [
+      "runtime",
+      "runtime",
+      "runtime",
+      "logical",
+      "runtime"
+    ],
+    "errorCount": 5,
+    "codeSmellCount": 4
+  },
+  {
+    "id": "mpgs9ffucl57",
+    "timestamp": "2026-05-22T10:34:56.490Z",
+    "language": "java",
+    "mainFile": "main.java",
+    "codeSnippet": "import java.util.*;\nimport java.io.*;\n\nclass Product {\n\n    int id;\n    String name;\n    int quantity;\n    double price;\n\n    Product(int id, String name,\n            int quantity,\n            double price) {\n\n        this.id = id;\n        this.name = name;\n        this.quantity = quantity;\n        this.price = price;\n    }\n\n    double inventoryValue() {\n        return quantity * price;\n    }\n\n    public String toString() {\n\n        return id + \" \" +\n               name + \" \" +\n               qu",
+    "summary": "This program implements a basic inventory management system with user authentication, product addition, removal, searching, and display features.",
+    "errorTitles": [
+      "Division by zero",
+      "Array index out of bounds in remove method",
+      "Array index out of bounds in averagePrice method",
+      "Potential null pointer exception in find method",
+      "Null pointer exception risk in expensive method"
+    ],
+    "errorTypes": [
+      "runtime",
+      "runtime",
+      "runtime",
+      "logical",
+      "runtime"
+    ],
+    "errorCount": 5,
+    "codeSmellCount": 3
+  },
+  {
+    "id": "mpgscmyu40jg",
+    "timestamp": "2026-05-22T10:37:26.214Z",
+    "language": "java",
+    "mainFile": "main.java",
+    "codeSnippet": "import java.util.*;\nimport java.io.*;\n\nclass Product {\n\n    int id;\n    String name;\n    int quantity;\n    double price;\n\n    Product(int id, String name,\n            int quantity,\n            double price) {\n\n        this.id = id;\n        this.name = name;\n        this.quantity = quantity;\n        this.price = price;\n    }\n\n    double inventoryValue() {\n        return quantity * price;\n    }\n\n    public String toString() {\n\n        return id + \" \" +\n               name + \" \" +\n               qu",
+    "summary": "This program implements a basic inventory management system with user authentication, product addition, removal, searching, and display functionalities.",
+    "errorTitles": [
+      "Division by Zero Error",
+      "Array Index Out of Bounds",
+      "Array Index Out of Bounds",
+      "Potential Null Pointer Exception",
+      "Null Pointer Exception Risk"
+    ],
+    "errorTypes": [
+      "runtime",
+      "runtime",
+      "runtime",
+      "logical",
+      "runtime"
+    ],
+    "errorCount": 5,
+    "codeSmellCount": 3
+  },
+  {
+    "id": "mpgsn0w6gsbo",
+    "timestamp": "2026-05-22T10:45:30.822Z",
+    "language": "java",
+    "mainFile": "main.java",
+    "codeSnippet": "import java.util.Scanner;\n\npublic class StudentMarks {\n    public static void main(String args[]) {\n        Scanner sc = new Scanner(System.in);\n\n        int n = sc.nextInt();\n        int marks[] = new int[n];\n\n        int total = 0;\n\n        for(int i=0; i<=n; i++) {   // Bug 1\n            marks[i] = sc.nextInt();\n            total += marks[i];\n        }\n\n        double avg = total / n;    // Bug 2\n\n        if(avg > 90)\n            System.out.println(\"Grade A\");\n        else if(avg > 75)\n      ",
+    "summary": "The program calculates the average of student marks and assigns a grade based on that average.",
+    "errorTitles": [
+      "Array Index Out of Bounds",
+      "Integer Division Truncation"
+    ],
+    "errorTypes": [
+      "runtime",
+      "logical"
+    ],
+    "errorCount": 2,
+    "codeSmellCount": 1
+  },
+  {
+    "id": "mpgsp59ctm9g",
+    "timestamp": "2026-05-22T10:47:09.792Z",
+    "language": "python",
+    "mainFile": "main.py",
+    "codeSnippet": "n = int(input())\n\nnumbers = []\n\nfor i in range(n):\n    numbers.append(int(input()))\n\nlargest = numbers[0]\n\nfor i in range(1, n+1):   # Bug 1\n    if numbers[i] > largest:\n        largest = numbers[i]\n\nsum = 0\n\nfor x in numbers:\n    sum += x\n\naverage = sum / n\n\nif average > 50:\n    print(\"Pass\")\nelse:\n    print(\"Fail\")\n\nprint(\"Largest:\", large)  # Bug 2",
+    "summary": "The code reads a list of numbers, finds the largest and average, and prints whether the average is greater than 50.",
+    "errorTitles": [
+      "Array index out of bounds",
+      "Division by zero",
+      "Undefined variable"
+    ],
+    "errorTypes": [
+      "runtime",
+      "runtime",
+      "syntax"
+    ],
+    "errorCount": 3,
+    "codeSmellCount": 2
+  },
+  {
+    "id": "mpgsqwd5cnir",
+    "timestamp": "2026-05-22T10:48:31.577Z",
+    "language": "javascript",
+    "mainFile": "main.js",
+    "codeSnippet": "const prompt = require(\"prompt-sync\")();\n\nlet n = parseInt(prompt());\n\nlet arr = [];\n\nfor(let i=0;i<n;i++){\n    arr.push(parseInt(prompt()));\n}\n\nlet total = 0;\n\nfor(let i=0;i<=arr.length;i++){ // Bug 1\n    total += arr[i];\n}\n\nlet avg = total/n;\n\nif(avg >= 80){\n    console.log(\"Excellent\");\n}\nelse(avg >= 50){ // Bug 2\n    console.log(\"Good\");\n}\nelse{\n    console.log(\"Poor\");\n}\n\nconsole.log(\"Average =\", average); // Bug 3",
+    "summary": "The code calculates the average of numbers entered by the user and prints a performance grade based on that average.",
+    "errorTitles": [
+      "Array Index Out of Bounds",
+      "Incorrect Else-If Syntax",
+      "ReferenceError: 'average' is not defined"
+    ],
+    "errorTypes": [
+      "runtime",
+      "syntax",
+      "runtime"
+    ],
+    "errorCount": 3,
+    "codeSmellCount": 1
+  },
+  {
+    "id": "mpgsri3k6fnq",
+    "timestamp": "2026-05-22T10:48:59.744Z",
+    "language": "javascript",
+    "mainFile": "main.js",
+    "codeSnippet": "const prompt = require(\"prompt-sync\")();\n\nlet n = parseInt(prompt());\n\nlet arr = [];\n\nfor(let i=0;i<n;i++){\n    arr.push(parseInt(prompt()));\n}\n\nlet total = 0;\n\nfor(let i=0;i<=arr.length;i++){ // Bug 1\n    total += arr[i];\n}\n\nlet avg = total/n;\n\nif(avg >= 80){\n    console.log(\"Excellent\");\n}\nelse(avg >= 50){ // Bug 2\n    console.log(\"Good\");\n}\nelse{\n    console.log(\"Poor\");\n}\n\nconsole.log(\"Average =\", average); // Bug 3",
+    "summary": "The code calculates the average of numbers entered by the user and prints a performance grade based on that average.",
+    "errorTitles": [
+      "Array Index Out of Bounds",
+      "Incorrect Else-If Syntax",
+      "Reference to Undefined Variable"
+    ],
+    "errorTypes": [
+      "runtime",
+      "syntax",
+      "runtime"
+    ],
+    "errorCount": 3,
+    "codeSmellCount": 1
+  },
+  {
+    "id": "mpgsy9j8zlt6",
+    "timestamp": "2026-05-22T10:54:15.236Z",
+    "language": "javascript",
+    "mainFile": "main.js",
+    "codeSnippet": "const prompt = require(\"prompt-sync\")();\n\nlet n = parseInt(prompt());\n\nlet arr = [];\n\nfor(let i=0;i<n;i++){\n    arr.push(parseInt(prompt()));\n}\n\nlet total = 0;\n\nfor(let i=0;i<=arr.length;i++){ // Bug 1\n    total += arr[i];\n}\n\nlet avg = total/n;\n\nif(avg >= 80){\n    console.log(\"Excellent\");\n}\nelse(avg >= 50){ // Bug 2\n    console.log(\"Good\");\n}\nelse{\n    console.log(\"Poor\");\n}\n\nconsole.log(\"Average =\", average); // Bug 3",
+    "summary": "The code calculates the average of numbers entered by the user and prints a performance grade based on that average.",
+    "errorTitles": [
+      "Array Index Out of Bounds",
+      "Incorrect Else-If Syntax",
+      "ReferenceError: Undefined Variable"
+    ],
+    "errorTypes": [
+      "runtime",
+      "logical",
+      "runtime"
+    ],
+    "errorCount": 3,
+    "codeSmellCount": 1
+  },
+  {
+    "id": "mpgsyizhb31b",
+    "timestamp": "2026-05-22T10:54:27.485Z",
+    "language": "javascript",
+    "mainFile": "main.js",
+    "codeSnippet": "const prompt = require(\"prompt-sync\")();\n\nlet n = parseInt(prompt());\n\nlet arr = [];\n\nfor(let i=0;i<n;i++){\n    arr.push(parseInt(prompt()));\n}\n\nlet total = 0;\n\nfor(let i=0;i<=arr.length;i++){ // Bug 1\n    total += arr[i];\n}\n\nlet avg = total/n;\n\nif(avg >= 80){\n    console.log(\"Excellent\");\n}\nelse(avg >= 50){ // Bug 2\n    console.log(\"Good\");\n}\nelse{\n    console.log(\"Poor\");\n}\n\nconsole.log(\"Average =\", average); // Bug 3",
+    "summary": "The code reads numbers into an array, calculates their average, and prints a grade based on that average.",
+    "errorTitles": [
+      "Array Index Out of Bounds",
+      "Incorrect Else-If Syntax",
+      "ReferenceError: Undefined Variable"
+    ],
+    "errorTypes": [
+      "runtime",
+      "syntax",
+      "runtime"
+    ],
+    "errorCount": 3,
+    "codeSmellCount": 1
+  },
+  {
+    "id": "mpgtdq2jde8j",
+    "timestamp": "2026-05-22T11:06:16.507Z",
+    "language": "javascript",
+    "mainFile": "main.js",
+    "codeSnippet": "const prompt = require(\"prompt-sync\")();\n\nlet n = parseInt(prompt());\n\nlet arr = [];\n\nfor(let i=0;i<n;i++){\n    arr.push(parseInt(prompt()));\n}\n\nlet total = 0;\n\nfor(let i=0;i<=arr.length;i++){ // Bug 1\n    total += arr[i];\n}\n\nlet avg = total/n;\n\nif(avg >= 80){\n    console.log(\"Excellent\");\n}\nelse(avg >= 50){ // Bug 2\n    console.log(\"Good\");\n}\nelse{\n    console.log(\"Poor\");\n}\n\nconsole.log(\"Average =\", average); // Bug 3",
+    "summary": "The code calculates the average of numbers entered by the user and prints a performance grade based on that average.",
+    "errorTitles": [
+      "Array Index Out of Bounds",
+      "Incorrect Else-If Syntax",
+      "ReferenceError: 'average' is not defined"
+    ],
+    "errorTypes": [
+      "runtime",
+      "syntax",
+      "runtime"
+    ],
+    "errorCount": 3,
+    "codeSmellCount": 2
+  },
+  {
+    "id": "mpjbte07gncp",
+    "timestamp": "2026-05-24T05:17:52.807Z",
+    "language": "python",
+    "mainFile": "main.py",
+    "codeSnippet": "# Welcome to CodeMedic AI!\n# Paste your code here and click \"Debug Code\"\n\ndef greet(name):\n    print(\"Hello, \" + name)\n\ngreet(\"World\")\ngreet(\"CodeMedic\")\n",
+    "summary": "The code defines a simple greeting function and calls it twice with different names.",
+    "errorTitles": [],
+    "errorTypes": [],
+    "errorCount": 0,
+    "codeSmellCount": 0
+  },
+  {
+    "id": "mpjbwshdfnb2",
+    "timestamp": "2026-05-24T05:20:31.537Z",
+    "language": "python",
+    "mainFile": "main.py",
+    "codeSnippet": "# Buggy Python Program (contains multiple intentional bugs)\n\ndef calculate_average(numbers):\n    total = 0\n    for n in numbers:\n        total += n\n    return total / len(numbers) + 1   # BUG: wrong average calculation\n\ndef find_max(numbers):\n    maximum = 0   # BUG: fails for all negative numbers\n    for n in numbers:\n        if n > maximum:\n            maximum = n\n    return maximum\n\nnums = input(\"Enter numbers separated by spaces: \")\n\nnums_list = nums.split(\" \")\nnums_list = [int(x) for x in n",
+    "summary": "The program calculates the average and finds the maximum of a list of numbers entered by the user.",
+    "errorTitles": [
+      "Division by zero",
+      "Incorrect average calculation",
+      "Fails for negative numbers",
+      "Missing colon in if statement"
+    ],
+    "errorTypes": [
+      "runtime",
+      "logical",
+      "logical",
+      "syntax"
+    ],
+    "errorCount": 4,
+    "codeSmellCount": 2
+  }
+]

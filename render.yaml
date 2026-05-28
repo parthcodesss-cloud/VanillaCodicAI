@@ -1,0 +1,23 @@
+services:
+  # Backend API
+  - type: web
+    name: codemedicai-backend
+    runtime: node
+    rootDir: backend
+    buildCommand: bash build.sh
+    startCommand: node server.js
+    envVars:
+      - key: HF_TOKEN
+        sync: false
+      - key: PORT
+        value: 10000
+    plan: free
+
+  # Frontend Static Site  
+  - type: web
+    name: codemedicai-frontend
+    runtime: static
+    rootDir: frontend
+    buildCommand: npm install && npm run build
+    staticPublishPath: dist
+    plan: free

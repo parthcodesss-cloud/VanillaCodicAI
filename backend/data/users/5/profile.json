@@ -1,0 +1,118 @@
+{
+  "xp": 555,
+  "level": 6,
+  "totalSessions": 15,
+  "totalErrors": 34,
+  "totalFixes": 23,
+  "currentStreak": 3,
+  "longestStreak": 3,
+  "lastActiveDate": "2026-05-26",
+  "skills": {
+    "syntax": {
+      "score": 28,
+      "sessions": 10
+    },
+    "logic": {
+      "score": 10,
+      "sessions": 18
+    },
+    "runtime": {
+      "score": 40,
+      "sessions": 6
+    },
+    "errorHandling": {
+      "score": 58,
+      "sessions": 0
+    },
+    "dataStructures": {
+      "score": 58,
+      "sessions": 0
+    },
+    "async": {
+      "score": 58,
+      "sessions": 0
+    }
+  },
+  "languageStats": {
+    "python": {
+      "sessions": 8,
+      "errors": 18
+    },
+    "java": {
+      "sessions": 7,
+      "errors": 16
+    }
+  },
+  "mistakeFrequency": {
+    "logical:array index out of bounds": 7,
+    "logical:integer division problem": 5,
+    "runtime:null pointer exception": 1,
+    "runtime:division by zero": 1,
+    "syntax:assignment instead of comparison": 1,
+    "syntax:missing colon in for loop": 1,
+    "logical:using string in modulo operation": 1,
+    "runtime:string concatenation with integer": 1,
+    "logical:variable 'i' not updated in loop": 1,
+    "runtime:string concatenation with integer in print": 1,
+    "syntax:missing colon after else statement": 1,
+    "logical:string vs integer comparison": 2,
+    "syntax:missing colon after for loop": 1,
+    "runtime:type mismatch in string concatenation": 1,
+    "syntax:missing closing parenthesis": 1,
+    "syntax:array index out of bounds": 1,
+    "syntax:missing colon": 1,
+    "syntax:missing colon in loop": 1,
+    "runtime:string concatenation error": 1,
+    "syntax:missing parenthesis": 1,
+    "logical:potential array index out of bounds": 1,
+    "logical:integer division problem risk": 1,
+    "syntax:unterminated string literal": 1
+  },
+  "conceptWeaknesses": [],
+  "achievements": [
+    {
+      "id": "first_debug",
+      "name": "First Steps",
+      "desc": "Complete your first debug session",
+      "unlockedAt": "2026-05-22T11:53:59.332Z"
+    },
+    {
+      "id": "clean_code",
+      "name": "Clean Coder",
+      "desc": "Submit code with zero errors",
+      "unlockedAt": "2026-05-22T11:53:59.332Z"
+    },
+    {
+      "id": "ten_sessions",
+      "name": "Getting Warmed Up",
+      "desc": "Complete 10 debug sessions",
+      "unlockedAt": "2026-05-25T20:49:19.934Z"
+    },
+    {
+      "id": "streak_3",
+      "name": "On a Roll",
+      "desc": "Maintain a 3-day streak",
+      "unlockedAt": "2026-05-26T02:16:47.033Z"
+    },
+    {
+      "id": "fixer",
+      "name": "Fix Machine",
+      "desc": "Fix 10 code submissions",
+      "unlockedAt": "2026-05-26T02:16:47.033Z"
+    },
+    {
+      "id": "level_5",
+      "name": "Rising Star",
+      "desc": "Reach level 5",
+      "unlockedAt": "2026-05-26T03:44:28.438Z"
+    }
+  ],
+  "coins": 45,
+  "activityMap": {
+    "2026-05-22": 8,
+    "2026-05-24": 1,
+    "2026-05-25": 3,
+    "2026-05-26": 3
+  },
+  "lastClaimDate": "2026-05-26"
+}

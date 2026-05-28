@@ -1,0 +1,41 @@
+
+> codemedic-ai-backend@1.0.0 dev
+> node --watch server.js
+
+[1G[0K⚠️ No Python installation detected
+⚠️ No Java compiler installation detected
+⚙️ C++ compiler detected: g++
+✅ Database migrations complete
+🩺 CodeMedic AI backend running on http://localhost:3001
+🤖 Model: Qwen/Qwen2.5-Coder-32B-Instruct
+🧠 Memory system: ACTIVE
+🗄️  Database: CONNECTED
+c[32mRestarting 'server.js'[39m
+⚠️ No Python installation detected
+⚠️ No Java compiler installation detected
+⚙️ C++ compiler detected: g++
+✅ Database migrations complete
+🩺 CodeMedic AI backend running on http://localhost:3001
+🤖 Model: Qwen/Qwen2.5-Coder-32B-Instruct
+🧠 Memory system: ACTIVE
+🗄️  Database: CONNECTED
+Verification email failed: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2bea92837c0sm14129715ad.18 - gsmtp
+c[32mRestarting 'server.js'[39m
+⚠️ No Python installation detected
+⚠️ No Java compiler installation detected
+⚙️ C++ compiler detected: g++
+✅ Database migrations complete
+🩺 CodeMedic AI backend running on http://localhost:3001
+🤖 Model: Qwen/Qwen2.5-Coder-32B-Instruct
+🧠 Memory system: ACTIVE
+🗄️  Database: CONNECTED
+c[32mRestarting 'server.js'[39m
+⚠️ No Python installation detected
+⚠️ No Java compiler installation detected
+⚙️ C++ compiler detected: g++
+✅ Database migrations complete
+🩺 CodeMedic AI backend running on http://localhost:3001
+🤖 Model: Qwen/Qwen2.5-Coder-32B-Instruct
+🧠 Memory system: ACTIVE
+🗄️  Database: CONNECTED

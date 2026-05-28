@@ -1,0 +1,107 @@
+{
+  "xp": 140,
+  "level": 2,
+  "totalSessions": 5,
+  "totalErrors": 31,
+  "totalFixes": 4,
+  "currentStreak": 3,
+  "longestStreak": 3,
+  "lastActiveDate": "2026-05-24",
+  "skills": {
+    "syntax": {
+      "score": 51,
+      "sessions": 1
+    },
+    "logic": {
+      "score": 48,
+      "sessions": 2
+    },
+    "runtime": {
+      "score": 10,
+      "sessions": 28
+    },
+    "errorHandling": {
+      "score": 54,
+      "sessions": 0
+    },
+    "dataStructures": {
+      "score": 54,
+      "sessions": 0
+    },
+    "async": {
+      "score": 54,
+      "sessions": 0
+    }
+  },
+  "languageStats": {
+    "python": {
+      "sessions": 2,
+      "errors": 0
+    },
+    "java": {
+      "sessions": 1,
+      "errors": 7
+    },
+    "javascript": {
+      "sessions": 1,
+      "errors": 12
+    },
+    "cpp": {
+      "sessions": 1,
+      "errors": 12
+    }
+  },
+  "mistakeFrequency": {
+    "runtime:infinite loop in for loop": 1,
+    "runtime:array index out of bounds": 4,
+    "logical:unreachable code": 1,
+    "runtime:division by zero": 3,
+    "runtime:null pointer exception": 1,
+    "runtime:index out of bounds in list": 1,
+    "syntax:semicolon after if statement": 1,
+    "runtime:referenceerror: 'score' is not defined": 1,
+    "runtime:accessing property of null": 1,
+    "runtime:infinite loop": 2,
+    "runtime:calling method on undefined value": 1,
+    "runtime:variable not defined before use": 1,
+    "runtime:invalid json syntax": 1,
+    "runtime:accessing property of undefined": 1,
+    "runtime:nan (not a number) result": 1,
+    "runtime:calling method on undefined": 1,
+    "runtime:infinite recursion": 1,
+    "runtime:dereferencing null pointer": 1,
+    "runtime:string index out of bounds": 1,
+    "runtime:vector index out of bounds": 1,
+    "runtime:stack overflow due to recursion": 1,
+    "runtime:memory leak": 1,
+    "logical:type mismatch": 1,
+    "runtime:uninitialized variable usage": 1,
+    "runtime:using null string": 1
+  },
+  "conceptWeaknesses": [],
+  "achievements": [
+    {
+      "id": "first_debug",
+      "name": "First Steps",
+      "desc": "Complete your first debug session",
+      "unlockedAt": "2026-05-22T06:53:00.159Z"
+    },
+    {
+      "id": "clean_code",
+      "name": "Clean Coder",
+      "desc": "Submit code with zero errors",
+      "unlockedAt": "2026-05-22T06:53:00.159Z"
+    },
+    {
+      "id": "polyglot",
+      "name": "Polyglot",
+      "desc": "Debug in 3+ languages",
+      "unlockedAt": "2026-05-22T13:25:44.862Z"
+    }
+  ],
+  "activityMap": {
+    "2026-05-22": 4
+  },
+  "coins": 10,
+  "lastClaimDate": "2026-05-22"
+}

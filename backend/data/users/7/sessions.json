@@ -1,0 +1,14 @@
+[
+  {
+    "id": "mpku30rkkjon",
+    "timestamp": "2026-05-25T06:37:01.472Z",
+    "language": "python",
+    "mainFile": "main.py",
+    "codeSnippet": "# Welcome to CodeMedic AI!\n# Paste your code here and click \"Debug Code\"\n\ndef greet(name):\n    print(\"Hello, \" + name)\n\ngreet(\"World\")\ngreet(\"CodeMedic\")\n",
+    "summary": "The code defines a function that greets a person by name and calls it twice with different names.",
+    "errorTitles": [],
+    "errorTypes": [],
+    "errorCount": 0,
+    "codeSmellCount": 1
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "xp": 60,
+  "level": 1,
+  "totalSessions": 3,
+  "totalErrors": 18,
+  "totalFixes": 2,
+  "currentStreak": 1,
+  "longestStreak": 1,
+  "lastActiveDate": "2026-05-25",
+  "skills": {
+    "syntax": {
+      "score": 23,
+      "sessions": 9
+    },
+    "logic": {
+      "score": 41,
+      "sessions": 3
+    },
+    "runtime": {
+      "score": 32,
+      "sessions": 6
+    },
+    "errorHandling": {
+      "score": 50,
+      "sessions": 0
+    },
+    "dataStructures": {
+      "score": 50,
+      "sessions": 0
+    },
+    "async": {
+      "score": 50,
+      "sessions": 0
+    }
+  },
+  "languageStats": {
+    "python": {
+      "sessions": 3,
+      "errors": 18
+    }
+  },
+  "mistakeFrequency": {
+    "syntax:missing colon after 'else'": 3,
+    "runtime:index out of range error": 3,
+    "logical:comparing string to integer": 3,
+    "syntax:missing colon after loop": 1,
+    "runtime:type mismatch in print statement": 1,
+    "syntax:missing closing parenthesis": 3,
+    "syntax:missing colon after 'for'": 2,
+    "runtime:trying to concatenate string and integer": 1,
+    "runtime:cannot concatenate string and integer": 1
+  },
+  "conceptWeaknesses": [],
+  "achievements": [
+    {
+      "id": "first_debug",
+      "name": "First Steps",
+      "desc": "Complete your first debug session",
+      "unlockedAt": "2026-05-25T21:48:04.826Z"
+    },
+    {
+      "id": "clean_code",
+      "name": "Clean Coder",
+      "desc": "Submit code with zero errors",
+      "unlockedAt": "2026-05-25T22:03:42.826Z"
+    }
+  ],
+  "coins": 0,
+  "activityMap": {
+    "2026-05-25": 3
+  }
+}

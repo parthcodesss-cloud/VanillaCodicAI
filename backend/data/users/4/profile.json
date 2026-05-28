@@ -1,0 +1,141 @@
+{
+  "xp": 775,
+  "level": 8,
+  "totalSessions": 28,
+  "totalErrors": 106,
+  "totalFixes": 30,
+  "currentStreak": 1,
+  "longestStreak": 1,
+  "lastActiveDate": "2026-05-24",
+  "skills": {
+    "syntax": {
+      "score": 29,
+      "sessions": 9
+    },
+    "logic": {
+      "score": 10,
+      "sessions": 16
+    },
+    "runtime": {
+      "score": 10,
+      "sessions": 76
+    },
+    "errorHandling": {
+      "score": 56,
+      "sessions": 0
+    },
+    "dataStructures": {
+      "score": 56,
+      "sessions": 0
+    },
+    "async": {
+      "score": 56,
+      "sessions": 0
+    }
+  },
+  "languageStats": {
+    "python": {
+      "sessions": 8,
+      "errors": 22
+    },
+    "java": {
+      "sessions": 13,
+      "errors": 58
+    },
+    "javascript": {
+      "sessions": 6,
+      "errors": 20
+    },
+    "cpp": {
+      "sessions": 1,
+      "errors": 6
+    }
+  },
+  "mistakeFrequency": {
+    "runtime:potential nullpointerexception when loading data": 2,
+    "logic:inefficient search method": 1,
+    "syntax:typo in variable name": 1,
+    "logic:incorrect withdrawal amount type": 1,
+    "runtime:index out of bounds error": 1,
+    "logic:incorrect total calculation": 1,
+    "syntax:assignment instead of comparison": 1,
+    "logic:returning wrong variable": 1,
+    "runtime:accessing non-existent user": 1,
+    "runtime:using undefined variable": 1,
+    "logic:loop runs forever": 1,
+    "runtime:array index out of bounds": 25,
+    "runtime:division by zero": 14,
+    "runtime:null pointer exception": 11,
+    "logical:inefficient search method": 1,
+    "runtime:null pointer dereference": 1,
+    "runtime:accessing invalid vector index": 1,
+    "runtime:invalid string to integer conversion": 1,
+    "logical:infinite loop due to incorrect increment": 1,
+    "logical:invalid addition with null": 5,
+    "runtime:potential null pointer exception": 2,
+    "runtime:null pointer exception risk": 6,
+    "syntax:incorrect language used": 1,
+    "logical:string comparison using '=='": 1,
+    "logical:incorrect loop condition in remove method": 1,
+    "runtime:division by zero error": 2,
+    "logical:potential null pointer exception": 2,
+    "runtime:array index out of bounds in remove method": 1,
+    "runtime:array index out of bounds in averageprice method": 1,
+    "logical:potential null pointer exception in find method": 1,
+    "runtime:null pointer exception risk in expensive method": 1,
+    "logical:integer division truncation": 1,
+    "syntax:undefined variable": 1,
+    "syntax:incorrect else-if syntax": 4,
+    "runtime:referenceerror: 'average' is not defined": 2,
+    "runtime:reference to undefined variable": 1,
+    "logical:incorrect else-if syntax": 1,
+    "runtime:referenceerror: undefined variable": 2,
+    "logical:incorrect average calculation": 1,
+    "logical:fails for negative numbers": 1,
+    "syntax:missing colon in if statement": 1
+  },
+  "conceptWeaknesses": [],
+  "achievements": [
+    {
+      "id": "first_debug",
+      "name": "First Steps",
+      "desc": "Complete your first debug session",
+      "unlockedAt": "2026-05-22T08:30:15.659Z"
+    },
+    {
+      "id": "clean_code",
+      "name": "Clean Coder",
+      "desc": "Submit code with zero errors",
+      "unlockedAt": "2026-05-22T08:30:15.659Z"
+    },
+    {
+      "id": "polyglot",
+      "name": "Polyglot",
+      "desc": "Debug in 3+ languages",
+      "unlockedAt": "2026-05-22T09:27:54.639Z"
+    },
+    {
+      "id": "ten_sessions",
+      "name": "Getting Warmed Up",
+      "desc": "Complete 10 debug sessions",
+      "unlockedAt": "2026-05-22T09:50:47.176Z"
+    },
+    {
+      "id": "fixer",
+      "name": "Fix Machine",
+      "desc": "Fix 10 code submissions",
+      "unlockedAt": "2026-05-22T09:50:47.176Z"
+    },
+    {
+      "id": "level_5",
+      "name": "Rising Star",
+      "desc": "Reach level 5",
+      "unlockedAt": "2026-05-22T10:14:35.184Z"
+    }
+  ],
+  "coins": 10,
+  "activityMap": {
+    "2026-05-22": 26,
+    "2026-05-24": 2
+  }
+}

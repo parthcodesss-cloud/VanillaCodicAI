@@ -1,0 +1,26 @@
+{
+  "id": "presc_mpm06xle",
+  "userId": 5,
+  "ailment": "Logic & Syntax Ailment",
+  "doctorNote": "Multiple consecutive compiler logic or syntax errors detected. Let's rebuild your fundamentals with core array/string traversal.",
+  "exercises": [
+    {
+      "frontend_id": "1",
+      "title": "Two Sum",
+      "completed": false
+    },
+    {
+      "frontend_id": "9",
+      "title": "Palindrome Number",
+      "completed": true
+    },
+    {
+      "frontend_id": "13",
+      "title": "Roman to Integer",
+      "completed": true
+    }
+  ],
+  "xpReward": 200,
+  "coinsReward": 50,
+  "status": "active"
+}

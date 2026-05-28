@@ -1,0 +1,176 @@
+[
+  {
+    "id": "mpgkjg7v4gda",
+    "timestamp": "2026-05-22T06:58:47.131Z",
+    "language": "python",
+    "mainFile": "main.py",
+    "codeSnippet": "# Welcome to CodeMedic AI!\n# Paste your code here and click \"Debug Code\"\n\ndef greet(name):\n    print(\"Hello, \" + name)\n\ngreet(\"World\")\ngreet(\"CodeMedic\"\n",
+    "summary": "The code defines a greeting function and calls it twice with different names.",
+    "errorTitles": [
+      "Missing closing parenthesis"
+    ],
+    "errorTypes": [
+      "syntax"
+    ],
+    "errorCount": 1,
+    "codeSmellCount": 0
+  },
+  {
+    "id": "mpgkkcizsp97",
+    "timestamp": "2026-05-22T06:59:29.003Z",
+    "language": "python",
+    "mainFile": "main.py",
+    "codeSnippet": "# Welcome to CodeMedic AI!\n# Paste your code here and click \"Debug Code\"\n\ndef greet(name):\n    print(\"Hello, \" + name)\n\ngreet(\"World\")\ngreet(\"CodeMedic\"\n",
+    "summary": "The code defines a greeting function and calls it twice with different names.",
+    "errorTitles": [
+      "Missing closing parenthesis"
+    ],
+    "errorTypes": [
+      "syntax"
+    ],
+    "errorCount": 1,
+    "codeSmellCount": 0
+  },
+  {
+    "id": "mpgkl9zj1kax",
+    "timestamp": "2026-05-22T07:00:12.367Z",
+    "language": "javascript",
+    "mainFile": "main.js",
+    "codeSnippet": "// Paste your JavaScript code here\n\nfunction greet(name) {\n  console.log(\"Hello, \" + name);\n}\n\ngreet(\"World\ngreet(\"CodeMedic\");\n",
+    "summary": "The code is meant to greet users by name, but has a syntax error that prevents it from running properly.",
+    "errorTitles": [
+      "Missing closing quotation mark",
+      "Unfinished function call"
+    ],
+    "errorTypes": [
+      "syntax",
+      "runtime"
+    ],
+    "errorCount": 2,
+    "codeSmellCount": 0
+  },
+  {
+    "id": "mpgl5k5zk9zi",
+    "timestamp": "2026-05-22T07:15:58.679Z",
+    "language": "python",
+    "mainFile": "main.py",
+    "codeSnippet": "# Welcome to CodeMedic AI!\n# Paste your code here and click \"Debug Code\"\n\ndef greet(name):\n    print(\"Hello, \" + name)\n\ngreet(\"World\")\ngreet(\"CodeMedic\")\n",
+    "summary": "The code defines a greeting function and calls it twice with different names.",
+    "errorTitles": [],
+    "errorTypes": [],
+    "errorCount": 0,
+    "codeSmellCount": 0
+  },
+  {
+    "id": "mpglmxe3wehg",
+    "timestamp": "2026-05-22T07:29:28.971Z",
+    "language": "java",
+    "mainFile": "Main.java",
+    "codeSnippet": "// Buggy Java Code Example (100+ lines)\n\nimport java.util.*;\n\npublic class BuggyProgram {\n\n    static Scanner sc = new Scanner(System.in);\n\n    public static void main(String args[]) {\n\n        int choice = 0;\n        String name = null;\n\n        System.out.println(\"Welcome to Student System\");\n\n        while(choice != 5) {\n\n            System.out.println(\"\\n1. Enter Name\");\n            System.out.println(\"2. Print Numbers\");\n            System.out.println(\"3. Divide Numbers\");\n            Syste",
+    "summary": "This program is a menu-driven system that lets users enter a name, print numbers, divide two numbers, test arrays, and view student data.",
+    "errorTitles": [
+      "Infinite Loop in For Loop",
+      "Array Index Out of Bounds",
+      "Unreachable Code",
+      "Division by Zero",
+      "Null Pointer Exception",
+      "Array Index Out of Bounds",
+      "IndexOutOfBoundsException",
+      "Extra Semicolon"
+    ],
+    "errorTypes": [
+      "runtime",
+      "runtime",
+      "logical",
+      "runtime",
+      "runtime",
+      "runtime",
+      "runtime",
+      "syntax"
+    ],
+    "errorCount": 8,
+    "codeSmellCount": 2
+  },
+  {
+    "id": "mpglrc6q634r",
+    "timestamp": "2026-05-22T07:32:54.770Z",
+    "language": "python",
+    "mainFile": "main.py",
+    "codeSnippet": "# Welcome to CodeMedic AI!\n# Paste your code here and click \"Debug Code\"\n\ndef greet(name):\n    print(\"Hello, \" + name)\n\ngreet(\"World\")\ngreet(\"CodeMedic\")\n",
+    "summary": "The code defines a simple greeting function that prints a message to the console.",
+    "errorTitles": [],
+    "errorTypes": [],
+    "errorCount": 0,
+    "codeSmellCount": 0
+  },
+  {
+    "id": "mpglv47rqf34",
+    "timestamp": "2026-05-22T07:35:51.063Z",
+    "language": "python",
+    "mainFile": "main.py",
+    "codeSnippet": "# Welcome to CodeMedic AI!\n# Paste your code here and click \"Debug Code\"\n\ndef greet(name):\n    print(\"Hello, \" + name)\n\ngreet(\"World\")\ngreet(\"CodeMedic\")\n",
+    "summary": "The code defines a simple greeting function that prints a message to the console.",
+    "errorTitles": [],
+    "errorTypes": [],
+    "errorCount": 0,
+    "codeSmellCount": 1
+  },
+  {
+    "id": "mpglw8q6q83z",
+    "timestamp": "2026-05-22T07:36:43.566Z",
+    "language": "java",
+    "mainFile": "new_file.java",
+    "codeSnippet": "// Buggy Java Code Example (100+ lines)\n\nimport java.util.*;\n\npublic class BuggyProgram {\n\n    static Scanner sc = new Scanner(System.in);\n\n    public static void main(String args[]) {\n\n        int choice = 0;\n        String name = null;\n\n        System.out.println(\"Welcome to Student System\");\n\n        while(choice != 5) {\n\n            System.out.println(\"\\n1. Enter Name\");\n            System.out.println(\"2. Print Numbers\");\n            System.out.println(\"3. Divide Numbers\");\n            Syste",
+    "summary": "A student management system with menu-driven options that has several syntax, logic, and runtime errors.",
+    "errorTitles": [
+      "Missing closing parenthesis",
+      "Array index out of bounds",
+      "Null pointer exception",
+      "Division by zero",
+      "List index out of bounds",
+      "Infinite loop in print numbers",
+      "Incorrect menu option handling"
+    ],
+    "errorTypes": [
+      "syntax",
+      "runtime",
+      "runtime",
+      "runtime",
+      "runtime",
+      "logic",
+      "logic"
+    ],
+    "errorCount": 7,
+    "codeSmellCount": 3
+  },
+  {
+    "id": "mpgm0l3vv3yf",
+    "timestamp": "2026-05-22T07:40:06.236Z",
+    "language": "java",
+    "mainFile": "new_file.java",
+    "codeSnippet": "// Buggy Java Code Example (100+ lines)\n\nimport java.util.*;\n\npublic class BuggyProgram {\n\n    static Scanner sc = new Scanner(System.in);\n\n    public static void main(String args[]) {\n\n        int choice = 0;\n        String name = null;\n\n        System.out.println(\"Welcome to Student System\");\n\n        while(choice != 5) {\n\n            System.out.println(\"\\n1. Enter Name\");\n            System.out.println(\"2. Print Numbers\");\n            System.out.println(\"3. Divide Numbers\");\n            Syste",
+    "summary": "A student management system with menu-driven options that has several syntax, logic, and runtime errors.",
+    "errorTitles": [
+      "Missing closing parenthesis",
+      "Array index out of bounds",
+      "Null pointer exception",
+      "Division by zero",
+      "List index out of bounds",
+      "Infinite loop in print numbers",
+      "Array index out of bounds",
+      "Incorrect choice handling"
+    ],
+    "errorTypes": [
+      "syntax",
+      "runtime",
+      "runtime",
+      "runtime",
+      "runtime",
+      "logic",
+      "logic",
+      "logic"
+    ],
+    "errorCount": 8,
+    "codeSmellCount": 3
+  }
+]

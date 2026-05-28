@@ -1,0 +1,52 @@
+[
+  {
+    "id": "mpgyzphi8n04",
+    "timestamp": "2026-05-22T13:43:20.262Z",
+    "language": "python",
+    "mainFile": "main.py",
+    "codeSnippet": "# Welcome to CodeMedic AI!\n# Paste your code here and click \"Debug Code\"\n\ndef greet(name):\n    print(\"Hello, \" + name)\n\ngreet(\"World\")\ngreet(\"CodeMedic\")\n",
+    "summary": "The code defines a function to greet people by name and calls it twice.",
+    "errorTitles": [],
+    "errorTypes": [],
+    "errorCount": 0,
+    "codeSmellCount": 1
+  },
+  {
+    "id": "mpgz36wtfpg2",
+    "timestamp": "2026-05-22T13:46:02.813Z",
+    "language": "java",
+    "mainFile": "main.java",
+    "codeSnippet": "public class BuggyProgram {\n    public static void main(String[] args) {\n        int[] numbers = {1, 2, 3, 4, 5};\n\n        for (int i = 0; i <= numbers.length; i++) {\n            System.out.println(\"Number: \" + numbers[i]);\n        }\n\n        String text = null;\n        System.out.println(text.length());\n\n        int result = divide(10, 0);\n        System.out.println(\"Result: \" + result);\n\n        int total = calculateSum(numbers);\n        System.out.println(\"Total: \" + total);\n\n        Person p",
+    "summary": "This program tries to demonstrate basic Java operations but contains multiple errors that will cause it to crash or behave incorrectly.",
+    "errorTitles": [
+      "Null Pointer Exception",
+      "Division by Zero Error",
+      "Infinite Loop",
+      "Type Mismatch Error",
+      "Loop Counter Issue",
+      "Array Index Out of Bounds",
+      "NumberFormatException",
+      "Return Type Mismatch",
+      "Assignment Instead of Comparison",
+      "Missing Semicolon",
+      "Array Access Beyond Limits",
+      "Uninitialized Variable"
+    ],
+    "errorTypes": [
+      "runtime",
+      "runtime",
+      "logical",
+      "syntax",
+      "logical",
+      "runtime",
+      "runtime",
+      "syntax",
+      "syntax",
+      "syntax",
+      "logical",
+      "logical"
+    ],
+    "errorCount": 12,
+    "codeSmellCount": 2
+  }
+]

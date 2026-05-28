@@ -1,0 +1,32 @@
+[
+  {
+    "id": "mpjjcsby7j33",
+    "timestamp": "2026-05-24T08:48:55.150Z",
+    "language": "java",
+    "mainFile": "main.java",
+    "codeSnippet": "public class BuggyProgram {\n\n    public static void main(String args[]) {\n\n        int numbers[] = {10, 20, 30, 40, 50};\n\n        for(int i = 0; i <= numbers.length; i++) {\n            System.out.println(\"Number: \" + numbers[i]);\n        }\n\n        String name = null;\n        System.out.println(name.length());\n\n        int result = divideNumbers(10, 0);\n        System.out.println(\"Result is \" + result);\n\n        Scanner sc = new Scanner(System.in);\n        System.out.println(\"Enter age:\");\n     ",
+    "summary": "The program tries to print numbers, get user input, and perform some operations, but has several bugs that will cause errors.",
+    "errorTitles": [
+      "Missing semicolon",
+      "Array index out of bounds",
+      "Null pointer exception",
+      "Division by zero",
+      "Wrong operator for comparison",
+      "Type mismatch in ArrayList",
+      "Missing import statement",
+      "Wrong method for reading integers"
+    ],
+    "errorTypes": [
+      "syntax",
+      "runtime",
+      "runtime",
+      "runtime",
+      "logic",
+      "logic",
+      "syntax",
+      "logic"
+    ],
+    "errorCount": 8,
+    "codeSmellCount": 0
+  }
+]

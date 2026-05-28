@@ -1,0 +1,63 @@
+{
+  "xp": 25,
+  "level": 1,
+  "totalSessions": 1,
+  "totalErrors": 0,
+  "totalFixes": 0,
+  "currentStreak": 1,
+  "longestStreak": 1,
+  "lastActiveDate": "2026-05-25",
+  "skills": {
+    "syntax": {
+      "score": 52,
+      "sessions": 0
+    },
+    "logic": {
+      "score": 52,
+      "sessions": 0
+    },
+    "runtime": {
+      "score": 52,
+      "sessions": 0
+    },
+    "errorHandling": {
+      "score": 52,
+      "sessions": 0
+    },
+    "dataStructures": {
+      "score": 52,
+      "sessions": 0
+    },
+    "async": {
+      "score": 52,
+      "sessions": 0
+    }
+  },
+  "languageStats": {
+    "python": {
+      "sessions": 1,
+      "errors": 0
+    }
+  },
+  "mistakeFrequency": {},
+  "conceptWeaknesses": [],
+  "achievements": [
+    {
+      "id": "first_debug",
+      "name": "First Steps",
+      "desc": "Complete your first debug session",
+      "unlockedAt": "2026-05-25T14:46:46.645Z"
+    },
+    {
+      "id": "clean_code",
+      "name": "Clean Coder",
+      "desc": "Submit code with zero errors",
+      "unlockedAt": "2026-05-25T14:46:46.645Z"
+    }
+  ],
+  "coins": 10,
+  "activityMap": {
+    "2026-05-25": 1
+  },
+  "lastClaimDate": "2026-05-25"
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "mplqmn9zn1ar",
+    "timestamp": "2026-05-25T21:48:04.823Z",
+    "language": "python",
+    "mainFile": "main.py",
+    "codeSnippet": "name = input(\"Enter your name: \")\nage = int(input(\"Enter your age: \"))\n\nnumbers = [1, 2, 3, 4, 5]\n\nfor i in range(6):\n    print(numbers[i])\n\nif age > \"18\":\n    print(\"Adult\")\nelse\n    print(\"Minor\")\n\ntotal = 0\n\nfor n in numbers\n    total = total + n\n\nprint(\"Total is: \" + total)\n\nfile = open(\"data.txt\", \"r\")\nprint(file.read()\nfile.close()",
+    "summary": "The code asks for a user's name and age, then tries to print numbers, check if the user is an adult, calculate a total, and read from a file.",
+    "errorTitles": [
+      "Missing Colon After 'else'",
+      "Index Out of Range Error",
+      "Comparing String to Integer",
+      "Missing Colon After Loop",
+      "Type Mismatch in Print Statement",
+      "Missing Closing Parenthesis"
+    ],
+    "errorTypes": [
+      "syntax",
+      "runtime",
+      "logical",
+      "syntax",
+      "runtime",
+      "syntax"
+    ],
+    "errorCount": 6,
+    "codeSmellCount": 2
+  },
+  {
+    "id": "mplr6r1jdmkx",
+    "timestamp": "2026-05-25T22:03:42.823Z",
+    "language": "python",
+    "mainFile": "main.py",
+    "codeSnippet": "name = input(\"Enter your name: \")\nage = int(input(\"Enter your age: \"))\n\nnumbers = [1, 2, 3, 4, 5]\n\nfor i in range(6):\n    print(numbers[i])\n\nif age > \"18\":\n    print(\"Adult\")\nelse\n    print(\"Minor\")\n\ntotal = 0\n\nfor n in numbers\n    total = total + n\n\nprint(\"Total is: \" + total)\n\nfile = open(\"data.txt\", \"r\")\nprint(file.read()\nfile.close()",
+    "summary": "The code asks for a user's name and age, then tries to print a list of numbers, check if the user is an adult, calculate their sum, and read from a file.",
+    "errorTitles": [
+      "Missing colon after 'else'",
+      "Index out of range error",
+      "Comparing string to integer",
+      "Missing colon after 'for'",
+      "Trying to concatenate string and integer",
+      "Missing closing parenthesis"
+    ],
+    "errorTypes": [
+      "syntax",
+      "runtime",
+      "logical",
+      "syntax",
+      "runtime",
+      "syntax"
+    ],
+    "errorCount": 6,
+    "codeSmellCount": 2
+  },
+  {
+    "id": "mplr7t9rumhr",
+    "timestamp": "2026-05-25T22:04:32.368Z",
+    "language": "python",
+    "mainFile": "main.py",
+    "codeSnippet": "name = input(\"Enter your name: \")\nage = int(input(\"Enter your age: \"))\n\nnumbers = [1, 2, 3, 4, 5]\n\nfor i in range(6):\n    print(numbers[i])\n\nif age > \"18\":\n    print(\"Adult\")\nelse\n    print(\"Minor\")\n\ntotal = 0\n\nfor n in numbers\n    total = total + n\n\nprint(\"Total is: \" + total)\n\nfile = open(\"data.txt\", \"r\")\nprint(file.read()\nfile.close()",
+    "summary": "The code asks for a user's name and age, then tries to print a list of numbers, check if the user is an adult, calculate their sum, and read from a file.",
+    "errorTitles": [
+      "Missing colon after 'else'",
+      "Index out of range error",
+      "Comparing string to integer",
+      "Missing colon after 'for'",
+      "Cannot concatenate string and integer",
+      "Missing closing parenthesis"
+    ],
+    "errorTypes": [
+      "syntax",
+      "runtime",
+      "logical",
+      "syntax",
+      "runtime",
+      "syntax"
+    ],
+    "errorCount": 6,
+    "codeSmellCount": 2
+  }
+]

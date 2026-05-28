@@ -1,0 +1,26 @@
+{
+  "id": "presc_mplrm4kr",
+  "userId": 13,
+  "ailment": "Index Out of Bounds Syndrome",
+  "doctorNote": "Your code has crashed with index boundary errors. This indicates difficulties with loop conditions. Let's practice index bounds.",
+  "exercises": [
+    {
+      "frontend_id": "704",
+      "title": "Binary Search",
+      "completed": true
+    },
+    {
+      "frontend_id": "27",
+      "title": "Remove Element",
+      "completed": true
+    },
+    {
+      "frontend_id": "35",
+      "title": "Search Insert Position",
+      "completed": true
+    }
+  ],
+  "xpReward": 200,
+  "coinsReward": 50,
+  "status": "completed"
+}

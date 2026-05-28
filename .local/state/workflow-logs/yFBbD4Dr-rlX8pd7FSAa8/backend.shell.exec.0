@@ -1,0 +1,24 @@
+
+> codemedic-ai-backend@1.0.0 dev
+> node --watch server.js
+
+[1G[0K⚠️ No Python installation detected
+⚠️ No Java compiler installation detected
+⚙️ C++ compiler detected: g++
+🩺 CodeMedic AI backend running on http://localhost:3001
+🤖 Model: Qwen/Qwen2.5-Coder-32B-Instruct
+🧠 Memory system: ACTIVE
+c[32mRestarting 'server.js'[39m
+file:///home/runner/workspace/backend/server.js:174
+    const { verifyToken } = await import("./middleware/auth.js");
+                            ^^^^^
+
+SyntaxError: Unexpected reserved word
+[90m    at compileSourceTextModule (node:internal/modules/esm/utils:346:16)[39m
+[90m    at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:146:18)[39m
+[90m    at #translate (node:internal/modules/esm/loader:497:12)[39m
+[90m    at ModuleLoader.loadAndTranslate (node:internal/modules/esm/loader:544:27)[39m
+[90m    at async ModuleJob._link (node:internal/modules/esm/module_job:148:19)[39m
+
+Node.js v20.20.0
+[31mFailed running 'server.js'[39m

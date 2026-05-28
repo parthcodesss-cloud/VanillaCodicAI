@@ -1,0 +1,78 @@
+[
+  {
+    "id": "mpn1n1vhf1s9",
+    "timestamp": "2026-05-26T19:44:05.693Z",
+    "language": "python",
+    "mainFile": "main.py",
+    "codeSnippet": "numbers = [5, 10, 15, 20]\n\nsum = 0\n\nfor i in range(len(numbers) + 1):\n    sum += numbers[i]\n\naverage = sum / 0\n\nprint(\"Average: \" + average)",
+    "summary": "The code tries to calculate the average of a list of numbers but has several problems.",
+    "errorTitles": [
+      "Index out of bounds error",
+      "Division by zero",
+      "Type mismatch when printing"
+    ],
+    "errorTypes": [
+      "runtime",
+      "logical",
+      "runtime"
+    ],
+    "errorCount": 3,
+    "codeSmellCount": 1
+  },
+  {
+    "id": "mpn1nze5zmd7",
+    "timestamp": "2026-05-26T19:44:49.133Z",
+    "language": "java",
+    "mainFile": "main.java",
+    "codeSnippet": "public class Main {\n    public static void main(String[] args) {\n\n        int[] numbers = {5, 10, 15, 20};\n\n        int sum = 0;\n\n        for(int i = 0; i <= numbers.length; i++) {\n            sum += numbers[i];\n        }\n\n        int average = sum / 0;\n\n        System.out.println(\"Average: \" + average);\n    }\n}",
+    "summary": "The code tries to calculate the average of an array of numbers, but has several problems that will cause errors.",
+    "errorTitles": [
+      "Index out of bounds error",
+      "Division by zero error",
+      "Type mismatch when printing"
+    ],
+    "errorTypes": [
+      "runtime",
+      "logical",
+      "runtime"
+    ],
+    "errorCount": 3,
+    "codeSmellCount": 1
+  },
+  {
+    "id": "mpn1pd1rbj13",
+    "timestamp": "2026-05-26T19:45:53.487Z",
+    "language": "cpp",
+    "mainFile": "main.cpp",
+    "codeSnippet": "#include <iostream>\nusing namespace std;\n\nint main() {\n\n    int numbers[4] = {5, 10, 15, 20};\n\n    int sum = 0;\n\n    for(int i = 0; i <= 4; i++) {\n        sum += numbers[i];\n    }\n\n    int average = sum / 0;\n\n    cout << \"Average: \" << average << endl;\n}",
+    "summary": "The program tries to calculate the average of an array of numbers.",
+    "errorTitles": [
+      "Division by zero",
+      "Index out of bounds error"
+    ],
+    "errorTypes": [
+      "logical",
+      "runtime"
+    ],
+    "errorCount": 2,
+    "codeSmellCount": 1
+  },
+  {
+    "id": "mpnldtlt2rui",
+    "timestamp": "2026-05-27T04:56:47.393Z",
+    "language": "python",
+    "mainFile": "solution.py",
+    "codeSnippet": "class Solution:\n    def reverse(self, x: int) -> int:\n        sign = -1 if x < 0 else 1\n        x = abs(x)\n\n        rev = 0\n\n        while x != 0:\n            digit = x % 10\n            rev = rev * 10 + digit\n            x //= 10\n\n        rev *= sign\n\n        # Check 32-bit integer range\n        if rev < -2**31 or rev > 2**31 - 1:\n            return 0\n\n        return rev\n\n\ndef main():\n    x = int(input(\"Enter an integer: \"))\n\n    sol = Solution()\n    result = sol.reverse(x)\n\n    print(\"Reversed ",
+    "summary": "The code reverses an integer and handles overflow by returning 0 if the result is outside the 32-bit signed integer range.",
+    "errorTitles": [
+      "Duplicate code block",
+      "Potential index out of bounds error"
+    ],
+    "errorTypes": [
+      "syntax",
+      "runtime"
+    ],
+    "errorCount": 2,
+    "codeSmellCount": 2
+  }
+]

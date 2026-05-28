@@ -1,0 +1,272 @@
+[
+  {
+    "id": "mpgv3319bb1q",
+    "timestamp": "2026-05-22T11:53:59.328Z",
+    "language": "python",
+    "mainFile": "main.py",
+    "codeSnippet": "# Welcome to CodeMedic AI!\n# Paste your code here and click \"Debug Code\"\n\ndef greet(name):\n    print(\"Hello, \" + name)\n\ngreet(\"World\")\ngreet(\"CodeMedic\")\n",
+    "summary": "The code defines a function to greet people by name and calls it twice.",
+    "errorTitles": [],
+    "errorTypes": [],
+    "errorCount": 0,
+    "codeSmellCount": 2
+  },
+  {
+    "id": "mpgvahg9twnb",
+    "timestamp": "2026-05-22T11:59:44.601Z",
+    "language": "python",
+    "mainFile": "main.py",
+    "codeSnippet": "# Welcome to CodeMedic AI!\n# Paste your code here and click \"Debug Code\"\n\ndef greet(name):\n    print(\"Hello, \" + name)\n\ngreet(\"World\")\ngreet(\"CodeMedic\")\n",
+    "summary": "The code defines a function that greets a person by name and calls it twice with different names.",
+    "errorTitles": [],
+    "errorTypes": [],
+    "errorCount": 0,
+    "codeSmellCount": 1
+  },
+  {
+    "id": "mpgvd3eivfqy",
+    "timestamp": "2026-05-22T12:01:46.362Z",
+    "language": "java",
+    "mainFile": "main.java",
+    "codeSnippet": "import java.util.Scanner;\n\npublic class StudentMarks {\n    public static void main(String args[]) {\n        Scanner sc = new Scanner(System.in);\n\n        int n = sc.nextInt();\n        int marks[] = new int[n];\n\n        int total = 0;\n\n        for(int i=0; i<=n; i++) {   // Bug 1\n            marks[i] = sc.nextInt();\n            total += marks[i];\n        }\n\n        double avg = total / n;    // Bug 2\n\n        if(avg > 90)\n            System.out.println(\"Grade A\");\n        else if(avg > 75)\n      ",
+    "summary": "The program calculates the average of student marks and assigns a grade based on that average.",
+    "errorTitles": [
+      "Array Index Out of Bounds",
+      "Integer Division Problem"
+    ],
+    "errorTypes": [
+      "logical",
+      "logical"
+    ],
+    "errorCount": 2,
+    "codeSmellCount": 1
+  },
+  {
+    "id": "mpgvuu5tv92q",
+    "timestamp": "2026-05-22T12:15:34.193Z",
+    "language": "python",
+    "mainFile": "main.py",
+    "codeSnippet": "# Welcome to CodeMedic AI!\n# Paste your code here and click \"Debug Code\"\n\ndef greet(name):\n    print(\"Hello, \" + name)\n\ngreet(\"World\")\ngreet(\"CodeMedic\")\n",
+    "summary": "The code defines a function that greets a person by name and calls it twice with different names.",
+    "errorTitles": [],
+    "errorTypes": [],
+    "errorCount": 0,
+    "codeSmellCount": 0
+  },
+  {
+    "id": "mpgvvitawr3q",
+    "timestamp": "2026-05-22T12:16:06.142Z",
+    "language": "java",
+    "mainFile": "main.java",
+    "codeSnippet": "import java.util.Scanner;\n\npublic class StudentMarks {\n    public static void main(String args[]) {\n        Scanner sc = new Scanner(System.in);\n\n        int n = sc.nextInt();\n        int marks[] = new int[n];\n\n        int total = 0;\n\n        for(int i=0; i<=n; i++) {   // Bug 1\n            marks[i] = sc.nextInt();\n            total += marks[i];\n        }\n\n        double avg = total / n;    // Bug 2\n\n        if(avg > 90)\n            System.out.println(\"Grade A\");\n        else if(avg > 75)\n      ",
+    "summary": "The program calculates the average of student marks and assigns a grade based on that average.",
+    "errorTitles": [
+      "Array Index Out of Bounds",
+      "Integer Division Problem"
+    ],
+    "errorTypes": [
+      "logical",
+      "logical"
+    ],
+    "errorCount": 2,
+    "codeSmellCount": 1
+  },
+  {
+    "id": "mpgw90u5u9aj",
+    "timestamp": "2026-05-22T12:26:36.029Z",
+    "language": "python",
+    "mainFile": "main.py",
+    "codeSnippet": "# Welcome to CodeMedic AI!\n# Paste your code here and click \"Debug Code\"\n\ndef greet(name):\n    print(\"Hello, \" + name)\n\ngreet(\"World\")\ngreet(\"CodeMedic\")\n",
+    "summary": "The code defines a simple greeting function that prints a message to the console.",
+    "errorTitles": [],
+    "errorTypes": [],
+    "errorCount": 0,
+    "codeSmellCount": 1
+  },
+  {
+    "id": "mpgw9ugocu8p",
+    "timestamp": "2026-05-22T12:27:14.424Z",
+    "language": "java",
+    "mainFile": "main.java",
+    "codeSnippet": "import java.util.Scanner;\n\npublic class StudentMarks {\n    public static void main(String args[]) {\n        Scanner sc = new Scanner(System.in);\n\n        int n = sc.nextInt();\n        int marks[] = new int[n];\n\n        int total = 0;\n\n        for(int i=0; i<=n; i++) {   // Bug 1\n            marks[i] = sc.nextInt();\n            total += marks[i];\n        }\n\n        double avg = total / n;    // Bug 2\n\n        if(avg > 90)\n            System.out.println(\"Grade A\");\n        else if(avg > 75)\n      ",
+    "summary": "The program calculates the average of student marks and assigns a grade based on that average.",
+    "errorTitles": [
+      "Array Index Out of Bounds",
+      "Integer Division Problem"
+    ],
+    "errorTypes": [
+      "logical",
+      "logical"
+    ],
+    "errorCount": 2,
+    "codeSmellCount": 1
+  },
+  {
+    "id": "mpgwisvd2f05",
+    "timestamp": "2026-05-22T12:34:12.265Z",
+    "language": "java",
+    "mainFile": "main.java",
+    "codeSnippet": "import java.util.Scanner;\n\npublic class StudentMarks {\n    public static void main(String args[]) {\n        Scanner sc = new Scanner(System.in);\n\n        int n = sc.nextInt();\n        int marks[] = new int[n];\n\n        int total = 0;\n\n        for(int i=0; i<=n; i++) {   // Bug 1\n            marks[i] = sc.nextInt();\n            total += marks[i];\n        }\n\n        double avg = total / n;    // Bug 2\n\n        if(avg > 90)\n            System.out.println(\"Grade A\");\n        else if(avg > 75)\n      ",
+    "summary": "The program calculates the average of student marks and assigns a grade based on that average.",
+    "errorTitles": [
+      "Array Index Out of Bounds",
+      "Integer Division Problem"
+    ],
+    "errorTypes": [
+      "logical",
+      "logical"
+    ],
+    "errorCount": 2,
+    "codeSmellCount": 1
+  },
+  {
+    "id": "mpjhmm56ynm4",
+    "timestamp": "2026-05-24T08:00:34.458Z",
+    "language": "java",
+    "mainFile": "Main.java",
+    "codeSnippet": "public class BuggyProgram {\n\n    public static void main(String[] args) {\n\n        int numbers[] = {10, 20, 30, 40, 50};\n\n        for(int i = 0; i <= numbers.length; i++) {\n            System.out.println(\"Number: \" + numbers[i]);\n        }\n\n        String name = null;\n        System.out.println(name.length());\n\n        int a = 10;\n        int b = 0;\n        int result = a / b;\n\n        if(a = 10) {\n            System.out.println(\"A is 10\");\n        }\n\n        System.out.println(\"Result: \" + resu",
+    "summary": "The program attempts to print array elements, access a null string, perform division by zero, and use incorrect conditional syntax.",
+    "errorTitles": [
+      "Array Index Out of Bounds",
+      "Null Pointer Exception",
+      "Division by Zero",
+      "Assignment Instead of Comparison"
+    ],
+    "errorTypes": [
+      "logical",
+      "runtime",
+      "runtime",
+      "syntax"
+    ],
+    "errorCount": 4,
+    "codeSmellCount": 1
+  },
+  {
+    "id": "mploj3ft9n2t",
+    "timestamp": "2026-05-25T20:49:19.913Z",
+    "language": "python",
+    "mainFile": "main.py",
+    "codeSnippet": "num = input(\"Enter a number: \")\n\nfor i in range(1, 6)\n    if num % i == 0:\n        print(i + \" divides the number\")\n\ntotal = 0\nwhile total < 10:\ntotal += i\n\nprint(\"Final total: \" + total)",
+    "summary": "The code attempts to find divisors of a user-input number and calculate a running total.",
+    "errorTitles": [
+      "Missing colon in for loop",
+      "Using string in modulo operation",
+      "String concatenation with integer",
+      "Variable 'i' not updated in loop",
+      "String concatenation with integer in print"
+    ],
+    "errorTypes": [
+      "syntax",
+      "logical",
+      "runtime",
+      "logical",
+      "runtime"
+    ],
+    "errorCount": 5,
+    "codeSmellCount": 2
+  },
+  {
+    "id": "mplpvamtuxlm",
+    "timestamp": "2026-05-25T21:26:48.725Z",
+    "language": "python",
+    "mainFile": "main.py",
+    "codeSnippet": "name = input(\"Enter your name: \")\nage = int(input(\"Enter your age: \"))\n\nnumbers = [1, 2, 3, 4, 5]\n\nfor i in range(6):\n    print(numbers[i])\n\nif age > \"18\":\n    print(\"Adult\")\nelse\n    print(\"Minor\")\n\ntotal = 0\n\nfor n in numbers\n    total = total + n\n\nprint(\"Total is: \" + total)\n\nfile = open(\"data.txt\", \"r\")\nprint(file.read()\nfile.close()",
+    "summary": "The code collects user name and age, prints array elements, checks age eligibility, calculates a total, and reads from a file.",
+    "errorTitles": [
+      "Missing colon after else statement",
+      "Array index out of bounds",
+      "String vs integer comparison",
+      "Missing colon after for loop",
+      "Type mismatch in string concatenation",
+      "Missing closing parenthesis"
+    ],
+    "errorTypes": [
+      "syntax",
+      "logical",
+      "logical",
+      "syntax",
+      "runtime",
+      "syntax"
+    ],
+    "errorCount": 6,
+    "codeSmellCount": 2
+  },
+  {
+    "id": "mplrri3nsnwa",
+    "timestamp": "2026-05-25T22:19:51.011Z",
+    "language": "python",
+    "mainFile": "main.py",
+    "codeSnippet": "name = input(\"Enter your name: \")\nage = int(input(\"Enter your age: \"))\n\nnumbers = [1, 2, 3, 4, 5]\n\nfor i in range(6):\n    print(numbers[i])\n\nif age > \"18\":\n    print(\"Adult\")\nelse\n    print(\"Minor\")\n\ntotal = 0\n\nfor n in numbers\n    total = total + n\n\nprint(\"Total is: \" + total)\n\nfile = open(\"data.txt\", \"r\")\nprint(file.read()\nfile.close()",
+    "summary": "The code collects user name and age, prints array elements, checks age eligibility, calculates sum of array, and reads from a file.",
+    "errorTitles": [
+      "Array Index Out of Bounds",
+      "String vs Integer Comparison",
+      "Missing Colon",
+      "Missing Colon in Loop",
+      "String Concatenation Error",
+      "Missing Parenthesis"
+    ],
+    "errorTypes": [
+      "syntax",
+      "logical",
+      "syntax",
+      "syntax",
+      "runtime",
+      "syntax"
+    ],
+    "errorCount": 6,
+    "codeSmellCount": 2
+  },
+  {
+    "id": "mpm08794oajg",
+    "timestamp": "2026-05-26T02:16:47.032Z",
+    "language": "java",
+    "mainFile": "solution.java",
+    "codeSnippet": "public class Main {\n    \n    static class Solution {\n        public String convert(String s, int numRows) {\n            if (s == null || s.length() <= numRows || numRows == 1) {\n                return s;\n            }\n\n            StringBuilder[] rows = new StringBuilder[numRows];\n            for (int i = 0; i < numRows; i++) {\n                rows[i] = new StringBuilder();\n            }\n\n            int currentRow = 0;\n            int step = 1;\n\n            for (char c : s.toCharArray()) {\n    ",
+    "summary": "The code converts a string into a zigzag pattern across a specified number of rows and reads it line by line.",
+    "errorTitles": [
+      "Potential Array Index Out of Bounds",
+      "Integer Division Problem Risk"
+    ],
+    "errorTypes": [
+      "logical",
+      "logical"
+    ],
+    "errorCount": 2,
+    "codeSmellCount": 2
+  },
+  {
+    "id": "mpm3cyz5whps",
+    "timestamp": "2026-05-26T03:44:28.433Z",
+    "language": "python",
+    "mainFile": "main.py",
+    "codeSnippet": "# Welcome to CodeMedic AI!\n# Paste your code here and click \"Debug Code\"\n\ndef greet(name):\n    print(\"Hello, \" + name)\n\ngreet(\"World\")\ngreet(\"CodeMedic\n",
+    "summary": "The code defines a simple greeting function and calls it twice with different names.",
+    "errorTitles": [
+      "Unterminated String Literal"
+    ],
+    "errorTypes": [
+      "syntax"
+    ],
+    "errorCount": 1,
+    "codeSmellCount": 0
+  },
+  {
+    "id": "mpn0pywpuvoj",
+    "timestamp": "2026-05-26T19:18:22.201Z",
+    "language": "java",
+    "mainFile": "Main.java",
+    "codeSnippet": "public class Main {\n    public static void main(String[] args) {\n        int[] nums = {1, 2, 3, 4, 5};\n\n        int sum = 0;\n        for(int i = 0; i <= nums.length; i++) {\n            sum += nums[i];\n        }\n\n        System.out.println(\"Average: \" + sum / nums.length);\n    }\n}",
+    "summary": "The code attempts to calculate the average of an array of integers.",
+    "errorTitles": [
+      "Array Index Out of Bounds",
+      "Integer Division Problem"
+    ],
+    "errorTypes": [
+      "logical",
+      "logical"
+    ],
+    "errorCount": 2,
+    "codeSmellCount": 1
+  }
+]

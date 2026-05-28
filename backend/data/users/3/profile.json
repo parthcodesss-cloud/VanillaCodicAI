@@ -1,0 +1,80 @@
+{
+  "xp": 50,
+  "level": 1,
+  "totalSessions": 2,
+  "totalErrors": 12,
+  "totalFixes": 1,
+  "currentStreak": 1,
+  "longestStreak": 1,
+  "lastActiveDate": "2026-05-22",
+  "skills": {
+    "syntax": {
+      "score": 40,
+      "sessions": 4
+    },
+    "logic": {
+      "score": 40,
+      "sessions": 4
+    },
+    "runtime": {
+      "score": 40,
+      "sessions": 4
+    },
+    "errorHandling": {
+      "score": 52,
+      "sessions": 0
+    },
+    "dataStructures": {
+      "score": 52,
+      "sessions": 0
+    },
+    "async": {
+      "score": 52,
+      "sessions": 0
+    }
+  },
+  "languageStats": {
+    "python": {
+      "sessions": 1,
+      "errors": 0
+    },
+    "java": {
+      "sessions": 1,
+      "errors": 12
+    }
+  },
+  "mistakeFrequency": {
+    "runtime:null pointer exception": 1,
+    "runtime:division by zero error": 1,
+    "logical:infinite loop": 1,
+    "syntax:type mismatch error": 1,
+    "logical:loop counter issue": 1,
+    "runtime:array index out of bounds": 1,
+    "runtime:numberformatexception": 1,
+    "syntax:return type mismatch": 1,
+    "syntax:assignment instead of comparison": 1,
+    "syntax:missing semicolon": 1,
+    "logical:array access beyond limits": 1,
+    "logical:uninitialized variable": 1
+  },
+  "conceptWeaknesses": [],
+  "achievements": [
+    {
+      "id": "first_debug",
+      "name": "First Steps",
+      "desc": "Complete your first debug session",
+      "unlockedAt": "2026-05-22T13:43:20.270Z"
+    },
+    {
+      "id": "clean_code",
+      "name": "Clean Coder",
+      "desc": "Submit code with zero errors",
+      "unlockedAt": "2026-05-22T13:43:20.270Z"
+    }
+  ],
+  "coins": 20,
+  "activityMap": {
+    "2026-05-22": 2
+  },
+  "lastClaimDate": "2026-05-22"
+}

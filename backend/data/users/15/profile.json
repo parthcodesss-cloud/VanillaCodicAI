@@ -1,0 +1,85 @@
+{
+  "xp": 100,
+  "level": 2,
+  "totalSessions": 4,
+  "totalErrors": 10,
+  "totalFixes": 4,
+  "currentStreak": 3,
+  "longestStreak": 3,
+  "lastActiveDate": "2026-05-28",
+  "skills": {
+    "syntax": {
+      "score": 47,
+      "sessions": 1
+    },
+    "logic": {
+      "score": 41,
+      "sessions": 3
+    },
+    "runtime": {
+      "score": 32,
+      "sessions": 6
+    },
+    "errorHandling": {
+      "score": 50,
+      "sessions": 0
+    },
+    "dataStructures": {
+      "score": 50,
+      "sessions": 0
+    },
+    "async": {
+      "score": 50,
+      "sessions": 0
+    }
+  },
+  "languageStats": {
+    "python": {
+      "sessions": 2,
+      "errors": 5
+    },
+    "java": {
+      "sessions": 1,
+      "errors": 3
+    },
+    "cpp": {
+      "sessions": 1,
+      "errors": 2
+    }
+  },
+  "mistakeFrequency": {
+    "runtime:index out of bounds error": 3,
+    "logical:division by zero": 2,
+    "runtime:type mismatch when printing": 2,
+    "logical:division by zero error": 1,
+    "syntax:duplicate code block": 1,
+    "runtime:potential index out of bounds error": 1
+  },
+  "conceptWeaknesses": [],
+  "achievements": [
+    {
+      "id": "first_debug",
+      "name": "First Steps",
+      "desc": "Complete your first debug session",
+      "unlockedAt": "2026-05-26T19:44:05.708Z"
+    },
+    {
+      "id": "clean_code",
+      "name": "Clean Coder",
+      "desc": "Submit code with zero errors",
+      "unlockedAt": "2026-05-26T19:44:49.147Z"
+    },
+    {
+      "id": "polyglot",
+      "name": "Polyglot",
+      "desc": "Debug in 3+ languages",
+      "unlockedAt": "2026-05-26T19:45:53.499Z"
+    }
+  ],
+  "coins": 25,
+  "activityMap": {
+    "2026-05-26": 3,
+    "2026-05-27": 1
+  },
+  "lastClaimDate": "2026-05-27"
+}

@@ -1,0 +1,66 @@
+{
+  "xp": 40,
+  "level": 1,
+  "totalSessions": 1,
+  "totalErrors": 8,
+  "totalFixes": 2,
+  "currentStreak": 1,
+  "longestStreak": 1,
+  "lastActiveDate": "2026-05-24",
+  "skills": {
+    "syntax": {
+      "score": 44,
+      "sessions": 2
+    },
+    "logic": {
+      "score": 50,
+      "sessions": 0
+    },
+    "runtime": {
+      "score": 41,
+      "sessions": 3
+    },
+    "errorHandling": {
+      "score": 50,
+      "sessions": 0
+    },
+    "dataStructures": {
+      "score": 50,
+      "sessions": 0
+    },
+    "async": {
+      "score": 50,
+      "sessions": 0
+    }
+  },
+  "languageStats": {
+    "java": {
+      "sessions": 1,
+      "errors": 8
+    }
+  },
+  "mistakeFrequency": {
+    "syntax:missing semicolon": 1,
+    "runtime:array index out of bounds": 1,
+    "runtime:null pointer exception": 1,
+    "runtime:division by zero": 1,
+    "logic:wrong operator for comparison": 1,
+    "logic:type mismatch in arraylist": 1,
+    "syntax:missing import statement": 1,
+    "logic:wrong method for reading integers": 1
+  },
+  "conceptWeaknesses": [],
+  "achievements": [
+    {
+      "id": "first_debug",
+      "name": "First Steps",
+      "desc": "Complete your first debug session",
+      "unlockedAt": "2026-05-24T08:48:55.159Z"
+    }
+  ],
+  "coins": 10,
+  "activityMap": {
+    "2026-05-24": 1
+  },
+  "lastClaimDate": "2026-05-24"
+}

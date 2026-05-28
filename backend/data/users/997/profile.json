@@ -1,0 +1,51 @@
+{
+  "xp": 240,
+  "level": 3,
+  "totalSessions": 15,
+  "totalErrors": 8,
+  "totalFixes": 7,
+  "currentStreak": 2,
+  "longestStreak": 4,
+  "lastActiveDate": "2026-05-25",
+  "skills": {
+    "syntax": {
+      "score": 60,
+      "sessions": 8
+    },
+    "logic": {
+      "score": 55,
+      "sessions": 6
+    },
+    "runtime": {
+      "score": 70,
+      "sessions": 9
+    },
+    "errorHandling": {
+      "score": 50,
+      "sessions": 5
+    },
+    "dataStructures": {
+      "score": 45,
+      "sessions": 3
+    },
+    "async": {
+      "score": 40,
+      "sessions": 2
+    }
+  },
+  "languageStats": {
+    "python": {
+      "sessions": 9,
+      "errors": 5
+    },
+    "javascript": {
+      "sessions": 6,
+      "errors": 3
+    }
+  },
+  "mistakeFrequency": {},
+  "conceptWeaknesses": [],
+  "achievements": [],
+  "coins": 30,
+  "activityMap": {}
+}
